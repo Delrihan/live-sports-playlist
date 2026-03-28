@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", 2nd Qualifying | Suzuka International Racing Course |
-https://embedsports.top/embed/echo/2nd-qualifying-suzuka-international-racing-course-formula-1-2633/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", 2nd Qualifying | Suzuka International Racing Course |
-https://embedsports.top/embed/echo/2nd-qualifying-suzuka-international-racing-course-formula-1-2633/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", 2nd Qualifying | Suzuka International Racing Course |
-https://embedsports.top/embed/echo/2nd-qualifying-suzuka-international-racing-course-formula-1-2633/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", 2nd Qualifying | Suzuka International Racing Course |
-https://embedsports.top/embed/echo/2nd-qualifying-suzuka-international-racing-course-formula-1-2633/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHNz9K7ENxB8QUkCYgGQiRCSMFgSCn2Gz6KMCpRc35ehtEemtGBuYqIQQA.webp" group-title="LIVE NOW", Blues Super Rugby vs Fijian Drua
 https://embedsports.top/embed/echo/blues-vs-fijian-drua-rugby-51817/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHNz9K7ENxB8QUkCYgGQiRCSMFgSCn2Gz6KMCpRc35ehtEemtGBuYqIQQA.webp" group-title="LIVE NOW", Blues Super Rugby vs Fijian Drua
@@ -23,10 +15,10 @@ https://embedsports.top/embed/golf/20798/1|Referer=https://streamed.pk/&User-Age
 https://embedsports.top/embed/echo/fremantle-dockers-vs-richmond-tigers-australian-football-3369/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Fremantle Dockers vs Richmond Tigers
 https://embedsports.top/embed/echo/fremantle-dockers-vs-richmond-tigers-australian-football-3369/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Los Angeles Dodgers - Arizona Diamondbacks
-https://embedsports.top/embed/golf/21013/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASKETBALL", Michigan Wolverines vs Louisville Cardinals
 https://embedsports.top/embed/delta/live_ncaa-division-i-championship-women_michigan-wolverines-louisville-cardinals-live-streaming-1227771000/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASKETBALL", Texas Longhorns vs Kentucky Wildcats
+https://embedsports.top/embed/delta/live_ncaa-division-i-championship-women_texas-longhorns-kentucky-wildcats-live-streaming-1227771999/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUdxCjCZJCE18tIFLhCIIIKSGt8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASKETBALL", Milwaukee Bucks vs San Antonio Spurs
 https://embedsports.top/embed/admin/ppv-san-antonio-spurs-vs-milwaukee-bucks/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUdxCjCZJCE18tIFLhCIIIKSGt8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASKETBALL", Milwaukee Bucks vs San Antonio Spurs
@@ -250,6 +242,8 @@ https://embedsports.top/embed/admin/ppv-washington-nationals-vs-chicago-cubs/2|R
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDFl8QUJJRDcQ2kiClGNISxHN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASEBALL", Chicago Cubs vs Washington Nationals
 https://embedsports.top/embed/admin/ppv-washington-nationals-vs-chicago-cubs/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDFl8QUJJRDcQ2kiClGNISxHN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASEBALL", Chicago Cubs vs Washington Nationals
+https://embedsports.top/embed/delta/live_mlb_cubs-nationals-live-streaming-1197708093/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDFl8QUJJRDcQ2kiClGNISxHN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASEBALL", Chicago Cubs vs Washington Nationals
 https://embedsports.top/embed/golf/21036/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDEAGDiDggQ1ELxBZTICMcPmTB5vmBIKWEXMYowqlD0-lG1OW8HejBPcTEIIA.webp" group-title="BASEBALL", Toronto Blue Jays vs Athletics
 https://embedsports.top/embed/admin/ppv-athletics-vs-toronto-blue-jays/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
@@ -359,14 +353,6 @@ https://embedsports.top/embed/admin/ppv-cleveland-guardians-vs-seattle-mariners/
 https://embedsports.top/embed/delta/live_mlb_mariners-guardians-live-streaming-1197721080/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxAoQUkHpSkQ3DUZAxcIRIm17GwJBT7DZ9FGBUG278vSyyDTLRg7mKiEEA.webp" group-title="BASEBALL", Seattle Mariners vs Cleveland Guardians
 https://embedsports.top/embed/golf/21049/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="MOTOR SPORTS", 3rd Qualifying | Suzuka International Racing Course |
-https://embedsports.top/embed/echo/3rd-qualifying-suzuka-international-racing-course-formula-1-2634/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="MOTOR SPORTS", 3rd Qualifying | Suzuka International Racing Course |
-https://embedsports.top/embed/echo/3rd-qualifying-suzuka-international-racing-course-formula-1-2634/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="MOTOR SPORTS", 3rd Qualifying | Suzuka International Racing Course |
-https://embedsports.top/embed/echo/3rd-qualifying-suzuka-international-racing-course-formula-1-2634/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="MOTOR SPORTS", 3rd Qualifying | Suzuka International Racing Course |
-https://embedsports.top/embed/echo/3rd-qualifying-suzuka-international-racing-course-formula-1-2634/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="MOTOR SPORTS", Formula 1 2026 - Japan GP
 https://embedsports.top/embed/delta/live-event_formula-1-2026-japan-gp-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="MOTOR SPORTS", MotoGP 2026 - Grand Prix of the Americas
@@ -397,6 +383,8 @@ https://embedsports.top/embed/admin/ppv-japanese-grand-prix-race/1|Referer=https
 https://embedsports.top/embed/admin/ppv-japanese-grand-prix-race/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKimAAGPmHAoQJELxBZTIREaMwLICCBgskFLCLmMUYVZo5fyjajlNfFZgMC9xMQggA.webp" group-title="MOTOR SPORTS", Japanese Grand Prix
 https://embedsports.top/embed/admin/ppv-japanese-grand-prix-race/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKimAAGPmHAoQJELxBZTIREaMwLICCBgskFLCLmMUYVZo5fyjajlNfFZgMC9xMQggA.webp" group-title="MOTOR SPORTS", Japanese Grand Prix
+https://embedsports.top/embed/golf/20799/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdETkiADGjYIJghu1CthBZgUiQxATEEOSEEkx2YOs77GKlQp0tgbcJx7ACulBfJJcQh1w4I23UQ7v0wHHqiEEA.webp" group-title="MOTOR SPORTS", MXGP of Switzerland
 https://embedsports.top/embed/admin/ppv-mxgp-of-switzerland-day-2/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWWYgE0OHjBEx0vmAFNp51JQwHguBOdETkiADGjYIJghu1CthBZgUiQxATEEOSEEkx2YOs77GKlQp0tgbcJx7ACulBfJJcQh1w4I23UQ7v0wHHqiEEA.webp" group-title="MOTOR SPORTS", MXGP of Switzerland
