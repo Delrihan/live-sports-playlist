@@ -1,12 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA: Halle / Berlin 🎾
-https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA: Halle / Berlin 🎾
-https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA: Halle / Berlin 🎾
-https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA: Halle / Berlin 🎾
-https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/admin/ppv-belgium-vs-egypt/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/admin/ppv-belgium-vs-egypt/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/admin/ppv-belgium-vs-egypt/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/admin/ppv-belgium-vs-egypt/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/admin/ppv-belgium-vs-egypt/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/admin/ppv-belgium-vs-egypt/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/admin/ppv-belgium-vs-egypt/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/admin/ppv-belgium-vs-egypt/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/delta/live_world-championship-gr-g_belgium-egypt-live-streaming-1243552203/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/delta/live_world-championship-gr-g_belgium-egypt-live-streaming-1243552203/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/delta/live_world-championship-gr-g_belgium-egypt-live-streaming-1243552203/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/golf/23145/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Belgium vs Egypt
+https://embed.st/embed/golf/23145/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Texas Longhorns vs Alabama Crimson Tide
+https://embed.st/embed/delta/live_ncaa-division-i-championship_texas-alabama-crimson-tide-live-streaming-1349424225/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDJUQ8bDNIhhIySBQqAxsAjBEIFXpRzEWHZK0gYq83pKKD5bQKEim2emELAkudYaFhuTm0lMkMCHXIArVItIA.webp" group-title="BASKETBALL", Minnesota Lynx vs Portland Fire
 https://embed.st/embed/admin/ppv-portland-fire-vs-minnesota-lynx/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDJUQ8bDNIhhIySBQqAxsAjBEIFXpRzEWHZK0gYq83pKKD5bQKEim2emELAkudYaFhuTm0lMkMCHXIArVItIA.webp" group-title="BASKETBALL", Minnesota Lynx vs Portland Fire
@@ -27,62 +59,6 @@ https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-golden-state-valkyries/2|
 https://embed.st/embed/golf/23182/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASKETBALL", Indiana Fever vs Toronto Tempo
 https://embed.st/embed/golf/23201/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/admin/ppv-spain-vs-cape-verde/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/admin/ppv-spain-vs-cape-verde/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/admin/ppv-spain-vs-cape-verde/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/admin/ppv-spain-vs-cape-verde/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/admin/ppv-spain-vs-cape-verde/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/admin/ppv-spain-vs-cape-verde/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/delta/live_world-championship-gr-h_spain-cabo-verde-live-streaming-1243554201/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/delta/live_world-championship-gr-h_spain-cabo-verde-live-streaming-1243554201/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/echo/spain-vs-cape-verde-islands-football-1489380/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/echo/spain-vs-cape-verde-islands-football-1489380/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/echo/spain-vs-cape-verde-islands-football-1489380/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/echo/spain-vs-cape-verde-islands-football-1489380/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/echo/spain-vs-cape-verde-islands-football-1489380/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/golf/23144/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp" group-title="FOOTBALL", Spain vs Cape Verde
-https://embed.st/embed/golf/23144/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/admin/ppv-belgium-vs-egypt/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/admin/ppv-belgium-vs-egypt/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/admin/ppv-belgium-vs-egypt/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/admin/ppv-belgium-vs-egypt/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/admin/ppv-belgium-vs-egypt/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/admin/ppv-belgium-vs-egypt/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/echo/belgium-vs-egypt-football-1489377/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/golf/23145/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Belgium vs Egypt
-https://embed.st/embed/golf/23145/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMSxgNIEBBDcQfIyBIgYp3SEQ4+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" group-title="FOOTBALL", Saudi Arabia vs Uruguay
 https://embed.st/embed/admin/ppv-saudi-arabia-vs-uruguay/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMSxgNIEBBDcQfIyBIgYp3SEQ4+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" group-title="FOOTBALL", Saudi Arabia vs Uruguay
@@ -95,6 +71,10 @@ https://embed.st/embed/admin/ppv-saudi-arabia-vs-uruguay/4|Referer=https://strea
 https://embed.st/embed/admin/ppv-saudi-arabia-vs-uruguay/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMSxgNIEBBDcQfIyBIgYp3SEQ4+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" group-title="FOOTBALL", Saudi Arabia vs Uruguay
 https://embed.st/embed/admin/ppv-saudi-arabia-vs-uruguay/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMSxgNIEBBDcQfIyBIgYp3SEQ4+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" group-title="FOOTBALL", Saudi Arabia vs Uruguay
+https://embed.st/embed/admin/ppv-saudi-arabia-vs-uruguay/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMSxgNIEBBDcQfIyBIgYp3SEQ4+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" group-title="FOOTBALL", Saudi Arabia vs Uruguay
+https://embed.st/embed/admin/ppv-saudi-arabia-vs-uruguay/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMSxgNIEBBDcQfIyBIgYp3SEQ4+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" group-title="FOOTBALL", Saudi Arabia vs Uruguay
 https://embed.st/embed/echo/saudi-arabia-vs-uruguay-football-1489379/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMSxgNIEBBDcQfIyBIgYp3SEQ4+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" group-title="FOOTBALL", Saudi Arabia vs Uruguay
@@ -122,6 +102,10 @@ https://embed.st/embed/admin/ppv-iran-vs-new-zealand/5|Referer=https://streamed.
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXiGBTcIKWBQhuIPsZAkQMMyGuIcUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Iran vs New Zealand
 https://embed.st/embed/admin/ppv-iran-vs-new-zealand/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXiGBTcIKWBQhuIPsZAkQMMyGuIcUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Iran vs New Zealand
+https://embed.st/embed/admin/ppv-iran-vs-new-zealand/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXiGBTcIKWBQhuIPsZAkQMMyGuIcUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Iran vs New Zealand
+https://embed.st/embed/admin/ppv-iran-vs-new-zealand/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXiGBTcIKWBQhuIPsZAkQMMyGuIcUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Iran vs New Zealand
 https://embed.st/embed/golf/23147/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXiGBTcIKWBQhuIPsZAkQMMyGuIcUgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Iran vs New Zealand
 https://embed.st/embed/golf/23147/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
@@ -137,6 +121,10 @@ https://embed.st/embed/admin/ppv-france-vs-senegal/4|Referer=https://streamed.pk
 https://embed.st/embed/admin/ppv-france-vs-senegal/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxC0+YKWFEoQ3DSZIgYIMyC02JTJBT7DZ9FPrYou+8vSyzPTLRg7vSiEEA.webp" group-title="FOOTBALL", France vs Senegal
 https://embed.st/embed/admin/ppv-france-vs-senegal/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxC0+YKWFEoQ3DSZIgYIMyC02JTJBT7DZ9FPrYou+8vSyzPTLRg7vSiEEA.webp" group-title="FOOTBALL", France vs Senegal
+https://embed.st/embed/admin/ppv-france-vs-senegal/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxC0+YKWFEoQ3DSZIgYIMyC02JTJBT7DZ9FPrYou+8vSyzPTLRg7vSiEEA.webp" group-title="FOOTBALL", France vs Senegal
+https://embed.st/embed/admin/ppv-france-vs-senegal/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEA1AgyKMHxDcQ+-SRAxtIS4hMFgSCn2Gz6ulSi5gy8IllnumtGCeYqIQQA.webp" group-title="FOOTBALL", Iraq vs Norway
 https://embed.st/embed/admin/ppv-iraq-vs-norway/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEA1AgyKMHxDcQ+-SRAxtIS4hMFgSCn2Gz6ulSi5gy8IllnumtGCeYqIQQA.webp" group-title="FOOTBALL", Iraq vs Norway
@@ -149,6 +137,10 @@ https://embed.st/embed/admin/ppv-iraq-vs-norway/4|Referer=https://streamed.pk/&U
 https://embed.st/embed/admin/ppv-iraq-vs-norway/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEA1AgyKMHxDcQ+-SRAxtIS4hMFgSCn2Gz6ulSi5gy8IllnumtGCeYqIQQA.webp" group-title="FOOTBALL", Iraq vs Norway
 https://embed.st/embed/admin/ppv-iraq-vs-norway/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEA1AgyKMHxDcQ+-SRAxtIS4hMFgSCn2Gz6ulSi5gy8IllnumtGCeYqIQQA.webp" group-title="FOOTBALL", Iraq vs Norway
+https://embed.st/embed/admin/ppv-iraq-vs-norway/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEA1AgyKMHxDcQ+-SRAxtIS4hMFgSCn2Gz6ulSi5gy8IllnumtGCeYqIQQA.webp" group-title="FOOTBALL", Iraq vs Norway
+https://embed.st/embed/admin/ppv-iraq-vs-norway/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYaRBUQKEFmAQQimHKUgYCkSGHqQAYylTSwabJBaNWdQpnYQiEinIRQYQSKbZ6YQsCS49JyE3VhcJMicCYHhyN00yCCA.webp" group-title="FOOTBALL", Argentina vs. Algeria
 https://embed.st/embed/admin/ppv-argentina-vs-algeria/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYaRBUQKEFmAQQimHKUgYCkSGHqQAYylTSwabJBaNWdQpnYQiEinIRQYQSKbZ6YQsCS49JyE3VhcJMicCYHhyN00yCCA.webp" group-title="FOOTBALL", Argentina vs. Algeria
@@ -161,6 +153,10 @@ https://embed.st/embed/admin/ppv-argentina-vs-algeria/4|Referer=https://streamed
 https://embed.st/embed/admin/ppv-argentina-vs-algeria/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYaRBUQKEFmAQQimHKUgYCkSGHqQAYylTSwabJBaNWdQpnYQiEinIRQYQSKbZ6YQsCS49JyE3VhcJMicCYHhyN00yCCA.webp" group-title="FOOTBALL", Argentina vs. Algeria
 https://embed.st/embed/admin/ppv-argentina-vs-algeria/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYaRBUQKEFmAQQimHKUgYCkSGHqQAYylTSwabJBaNWdQpnYQiEinIRQYQSKbZ6YQsCS49JyE3VhcJMicCYHhyN00yCCA.webp" group-title="FOOTBALL", Argentina vs. Algeria
+https://embed.st/embed/admin/ppv-argentina-vs-algeria/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYaRBUQKEFmAQQimHKUgYCkSGHqQAYylTSwabJBaNWdQpnYQiEinIRQYQSKbZ6YQsCS49JyE3VhcJMicCYHhyN00yCCA.webp" group-title="FOOTBALL", Argentina vs. Algeria
+https://embed.st/embed/admin/ppv-argentina-vs-algeria/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKXHjswKlJAiQJEDXjA1wkBuAQQegMaK5CxMPUgY2EJuMh9KlOQkChIpjMdhCwJLn2OhMG5OCTMyRwJ1ciCdUh0gA.webp" group-title="FOOTBALL", Almería vs. Málaga
 https://embed.st/embed/admin/ppv-almer-a-vs-m-laga/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKXHjswKlJAiQJEDXjA1wkBuAQQegMaK5CxMPUgY2EJuMh9KlOQkChIpjMdhCwJLn2OhMG5OCTMyRwJ1ciCdUh0gA.webp" group-title="FOOTBALL", Almería vs. Málaga
@@ -198,11 +194,15 @@ https://embed.st/embed/admin/ppv-miami-marlins-vs-philadelphia-phillies/1|Refere
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxwwQ23iA0g++nbhAozIKRcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="BASEBALL", Philadelphia Phillies vs Miami Marlins
 https://embed.st/embed/admin/ppv-miami-marlins-vs-philadelphia-phillies/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxwwQ23iA0g++nbhAozIKRcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="BASEBALL", Philadelphia Phillies vs Miami Marlins
+https://embed.st/embed/echo/philadelphia-phillies-vs-miami-marlins-baseball-179089/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELxwwQ23iA0g++nbhAozIKRcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="BASEBALL", Philadelphia Phillies vs Miami Marlins
 https://embed.st/embed/golf/23183/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiHpJQIbgl0g+IYzFwgU5kFOPmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASEBALL", Washington Nationals vs Kansas City Royals
 https://embed.st/embed/admin/ppv-kansas-city-royals-vs-washington-nationals/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiHpJQIbgl0g+IYzFwgU5kFOPmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASEBALL", Washington Nationals vs Kansas City Royals
 https://embed.st/embed/admin/ppv-kansas-city-royals-vs-washington-nationals/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiHpJQIbgl0g+IYzFwgU5kFOPmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASEBALL", Washington Nationals vs Kansas City Royals
+https://embed.st/embed/echo/washington-nationals-vs-kansas-city-royals-baseball-179086/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiHpJQIbgl0g+IYzFwgU5kFOPmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASEBALL", Washington Nationals vs Kansas City Royals
 https://embed.st/embed/golf/23184/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMJWaUQKMCRDcQfECZi4dFqRZIFgSCn2Gz6ulSi57y9LLPdNaYHpiohBAA.webp" group-title="BASEBALL", Cincinnati Reds vs New York Mets
@@ -291,6 +291,8 @@ https://embed.st/embed/admin/admin-rally-tv/1|Referer=https://streamed.pk/&User-
 https://embed.st/embed/admin/ppv-wwe-monday-night-raw/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp" group-title="FIGHT (UFC, BOXING)", WWE: Monday Night RAW
 https://embed.st/embed/admin/ppv-wwe-monday-night-raw/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp" group-title="FIGHT (UFC, BOXING)", WWE: Monday Night RAW
+https://embed.st/embed/golf/23221/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiBKSQKSaRAwQSqRKylgEeRDmIpwkSEQ0sCgxP1qJAYxBUU5TQKEim2emELAkuK-aFhuTk19MnsCYHhyAI11CCA.webp" group-title="FIGHT (UFC, BOXING)", WWE: NXT
 https://embed.st/embed/admin/ppv-wwe-nxt/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiBKSQKSaRAwQSqRKylgEeRDmIpwkSEQ0sCgxP1qJAYxBUU5TQKEim2emELAkuK-aFhuTk19MnsCYHhyAI11CCA.webp" group-title="FIGHT (UFC, BOXING)", WWE: NXT
