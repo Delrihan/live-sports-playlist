@@ -1,106 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWVphgABlAhuIPiBJGzEXCEQWUBYEgp9hs+ijAqUXd+XpZZnpi13MVEIIA.webp" group-title="LIVE NOW", Indiana Fever vs Atlanta Dream
-https://embed.st/embed/admin/ppv-atlanta-dream-vs-indiana-fever/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWVphgABlAhuIPiBJGzEXCEQWUBYEgp9hs+ijAqUXd+XpZZnpi13MVEIIA.webp" group-title="LIVE NOW", Indiana Fever vs Atlanta Dream
-https://embed.st/embed/admin/ppv-atlanta-dream-vs-indiana-fever/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWVphgABlAhuIPiBJGzEXCEQWUBYEgp9hs+ijAqUXd+XpZZnpi13MVEIIA.webp" group-title="LIVE NOW", Indiana Fever vs Atlanta Dream
-https://embed.st/embed/delta/live_wnba_fever-atlanta-live-streaming-1211024763/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Indiana Fever W vs Atlanta Dream W
-https://embed.st/embed/echo/indiana-fever-w-vs-atlanta-dream-w-basketball-494886/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Indiana Fever W vs Atlanta Dream W
-https://embed.st/embed/echo/indiana-fever-w-vs-atlanta-dream-w-basketball-494886/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBggIIWjikhuIDSE24QKC8d24CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Atlanta Braves vs San Francisco Giants
-https://embed.st/embed/admin/ppv-san-francisco-giants-vs-atlanta-braves/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBggIIWjikhuIDSE24QKC8d24CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Atlanta Braves vs San Francisco Giants
-https://embed.st/embed/admin/ppv-san-francisco-giants-vs-atlanta-braves/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="LIVE NOW", Athletics vs Los Angeles Angels
+https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="LIVE NOW", Athletics vs Los Angeles Angels
+https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="LIVE NOW", Athletics vs Los Angeles Angels
+https://embed.st/embed/delta/live_mlb_athletics-angels-live-streaming-1328418252/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="LIVE NOW", Athletics vs Los Angeles Angels
+https://embed.st/embed/delta/live_mlb_athletics-angels-live-streaming-1328418252/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="LIVE NOW", Athletics vs Los Angeles Angels
+https://embed.st/embed/echo/athletics-vs-los-angeles-angels-baseball-179133/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="LIVE NOW", Athletics vs Los Angeles Angels
+https://embed.st/embed/echo/athletics-vs-los-angeles-angels-baseball-179133/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="LIVE NOW", Athletics vs Los Angeles Angels
+https://embed.st/embed/golf/23255/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="LIVE NOW", TNA: Impact
+https://embed.st/embed/admin/ppv-tna-impact/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="LIVE NOW", TNA: Impact
+https://embed.st/embed/admin/ppv-tna-impact/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", NARC Super Dirt Cup Skagit
+https://embed.st/embed/echo/ppv-event-07-narc-super-dirt-cup-skagit-ppv-07/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", NARC Super Dirt Cup Skagit
+https://embed.st/embed/echo/ppv-event-07-narc-super-dirt-cup-skagit-ppv-07/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", World of Outlaws Sprints Hussets
+https://embed.st/embed/echo/ppv-event-04-world-of-outlaws-sprints-hussets-ppv-004/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", World of Outlaws Sprints Hussets
+https://embed.st/embed/echo/ppv-event-04-world-of-outlaws-sprints-hussets-ppv-004/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPGp8wKkNxB8QRmLhAozBkIhgFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="LIVE NOW", Kansas City Royals vs St. Louis Cardinals
+https://embed.st/embed/golf/23254/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBggIIWjikhuIDSE24QKC8d24CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Atlanta Braves vs San Francisco Giants
 https://embed.st/embed/golf/23253/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", USAC Eastern Storm Big Diamond 🔥
-https://embed.st/embed/echo/ppv-event-02-usac-eastern-storm-big-diamond-ppv-02/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", USAC Eastern Storm Big Diamond 🔥
-https://embed.st/embed/echo/ppv-event-02-usac-eastern-storm-big-diamond-ppv-02/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXPxAsQvddxB8QRmLhAozB02aZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="LIVE NOW", New York Yankees vs Chicago White Sox
-https://embed.st/embed/admin/ppv-chicago-white-sox-vs-new-york-yankees/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXPxAsQvddxB8QRmLhAozB02aZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="LIVE NOW", New York Yankees vs Chicago White Sox
-https://embed.st/embed/admin/ppv-chicago-white-sox-vs-new-york-yankees/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXPxAsQvddxB8QRmLhAozB02aZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="LIVE NOW", New York Yankees vs Chicago White Sox
-https://embed.st/embed/delta/live_mlb_yankees-white-sox-live-streaming-1328415255/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXPxAsQvddxB8QRmLhAozB02aZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="LIVE NOW", New York Yankees vs Chicago White Sox
-https://embed.st/embed/delta/live_mlb_yankees-white-sox-live-streaming-1328415255/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXPxAsQvddxB8QRmLhAozB02aZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="LIVE NOW", New York Yankees vs Chicago White Sox
-https://embed.st/embed/echo/new-york-yankees-vs-chicago-white-sox-baseball-179128/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXPxAsQvddxB8QRmLhAozB02aZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="LIVE NOW", New York Yankees vs Chicago White Sox
-https://embed.st/embed/echo/new-york-yankees-vs-chicago-white-sox-baseball-179128/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXPxAsQvddxB8QRmLhAozB02aZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp" group-title="LIVE NOW", New York Yankees vs Chicago White Sox
 https://embed.st/embed/golf/23252/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", NAPA OH Speedweek Waynesfield💥
-https://embed.st/embed/echo/ppv-event-01-napa-oh-speedweek-waynesfield-ppv-01/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", NAPA OH Speedweek Waynesfield💥
-https://embed.st/embed/echo/ppv-event-01-napa-oh-speedweek-waynesfield-ppv-01/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDlgkIeimBgQ3EHw0gYuECisnLUgsCQU+w2XrAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Philadelphia Phillies vs New York Mets
-https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDlgkIeimBgQ3EHw0gYuECisnLUgsCQU+w2XrAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Philadelphia Phillies vs New York Mets
-https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDlgkIeimBgQ3EHw0gYuECisnLUgsCQU+w2XrAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Philadelphia Phillies vs New York Mets
-https://embed.st/embed/delta/live_mlb_phillies-mets-live-streaming-1328414256/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDlgkIeimBgQ3EHw0gYuECisnLUgsCQU+w2XrAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Philadelphia Phillies vs New York Mets
-https://embed.st/embed/delta/live_mlb_phillies-mets-live-streaming-1328414256/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDlgkIeimBgQ3EHw0gYuECisnLUgsCQU+w2XrAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Philadelphia Phillies vs New York Mets
-https://embed.st/embed/echo/philadelphia-phillies-vs-new-york-mets-baseball-179125/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDlgkIeimBgQ3EHw0gYuECisnLUgsCQU+w2XrAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Philadelphia Phillies vs New York Mets
-https://embed.st/embed/golf/23251/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/11|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/12|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/13|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/admin/ppv-canada-vs-qatar/14|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/delta/live_world-championship-gr-b_canada-qatar-live-streaming-1243605150/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/delta/live_world-championship-gr-b_canada-qatar-live-streaming-1243605150/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/delta/live_world-championship-gr-b_canada-qatar-live-streaming-1243605150/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/golf/23219/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Canada vs Qatar
-https://embed.st/embed/golf/23219/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECAFIQiKSBghumjftwgU54zj4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Seattle Mariners vs Baltimore Orioles
-https://embed.st/embed/golf/23250/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Canada vs Qatar
-https://embed.st/embed/echo/canada-vs-qatar-football-1489387/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Canada vs Qatar
-https://embed.st/embed/echo/canada-vs-qatar-football-1489387/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Canada vs Qatar
-https://embed.st/embed/echo/canada-vs-qatar-football-1489387/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Canada vs Qatar
-https://embed.st/embed/echo/canada-vs-qatar-football-1489387/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Canada vs Qatar
-https://embed.st/embed/echo/canada-vs-qatar-football-1489387/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGbSSwQ9JCG4g+hkCRAwTIS4kQkCwLTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Canada vs Qatar
-https://embed.st/embed/echo/canada-vs-qatar-football-1489387/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
 https://embed.st/embed/admin/ppv-mexico-vs-south-korea/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
@@ -129,24 +59,6 @@ https://embed.st/embed/admin/ppv-mexico-vs-south-korea/12|Referer=https://stream
 https://embed.st/embed/admin/ppv-mexico-vs-south-korea/13|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
 https://embed.st/embed/admin/ppv-mexico-vs-south-korea/14|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
-https://embed.st/embed/delta/live_world-championship-gr-a_mexico-south-korea-live-streaming-1243603152/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
-https://embed.st/embed/echo/mexico-vs-south-korea-football-1489388/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
-https://embed.st/embed/echo/mexico-vs-south-korea-football-1489388/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
-https://embed.st/embed/echo/mexico-vs-south-korea-football-1489388/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
-https://embed.st/embed/echo/mexico-vs-south-korea-football-1489388/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
-https://embed.st/embed/echo/mexico-vs-south-korea-football-1489388/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
-https://embed.st/embed/echo/mexico-vs-south-korea-football-1489388/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
-https://embed.st/embed/golf/23220/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDGBgQKULBDcQfIyBIgYpkFcSIpBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp" group-title="FOOTBALL", Mexico vs South Korea
-https://embed.st/embed/golf/23220/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJOSQgYIPmC3ddRktpAmQIRIhQFgGmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", USA vs Australia
 https://embed.st/embed/admin/ppv-united-states-vs-australia/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJOSQgYIPmC3ddRktpAmQIRIhQFgGmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", USA vs Australia
@@ -195,29 +107,29 @@ https://embed.st/embed/admin/ppv-scotland-vs-morocco/10|Referer=https://streamed
 https://embed.st/embed/golf/23243/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBTApIGSEohuIPsZAkQMMxpCJEmpkgp9hs+ijAqtbD+XpZZWky0YB5iohBAA.webp" group-title="FOOTBALL", Scotland vs Morocco
 https://embed.st/embed/golf/23243/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/admin/ppv-brazil-vs-haiti/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/admin/ppv-brazil-vs-haiti/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/admin/ppv-brazil-vs-haiti/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/admin/ppv-brazil-vs-haiti/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/admin/ppv-brazil-vs-haiti/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/admin/ppv-brazil-vs-haiti/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/admin/ppv-brazil-vs-haiti/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/admin/ppv-brazil-vs-haiti/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/admin/ppv-brazil-vs-haiti/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/admin/ppv-brazil-vs-haiti/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/golf/23244/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp" group-title="FOOTBALL", Brazil vs. Haiti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="FOOTBALL", Brazil vs Haiti
 https://embed.st/embed/golf/23244/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZCMHjAJiAMbAqICCGFLJakiCwgdyiavmqYIRTWEjpKkSEQobJlOQkChFgtnphCwJLlmOhMG5OfVJ6dykwIOkwiCA.webp" group-title="FOOTBALL", Türkiye vs. Paraguay
 https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
@@ -243,17 +155,17 @@ https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/10|Referer=https://streamed
 https://embed.st/embed/golf/23245/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZCMHjAJiAMbAqICCGFLJakiCwgdyiavmqYIRTWEjpKkSEQobJlOQkChFgtnphCwJLlmOhMG5OfVJ6dykwIOkwiCA.webp" group-title="FOOTBALL", Türkiye vs. Paraguay
 https://embed.st/embed/golf/23245/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Netherlands - Sweden
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECG4gYIPiFoatevSW0hTGxBpgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Netherlands vs Sweden
 https://embed.st/embed/golf/23256/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Netherlands - Sweden
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECG4gYIPiFoatevSW0hTGxBpgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Netherlands vs Sweden
 https://embed.st/embed/golf/23256/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKXHjswKlJAiQJEDXjA1wkBuAQQegMaK5CxMPUgY2EJuMh9KlOQkChIpjMdhCwJLn2OhMG5OCTMyRwJ1ciCdUh0gA.webp" group-title="FOOTBALL", Almería vs. Málaga
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmZgUIKdtAhuIPiBKmQEXIYshEGpkgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp" group-title="FOOTBALL", Almería vs Málaga
 https://embed.st/embed/admin/ppv-almer-a-vs-m-laga/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICKXHjswKlJAiQJEDXjA1wkBuAQQegMaK5CxMPUgY2EJuMh9KlOQkChIpjMdhCwJLn2OhMG5OCTMyRwJ1ciCdUh0gA.webp" group-title="FOOTBALL", Almería vs. Málaga
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmZgUIKdtAhuIPiBKmQEXIYshEGpkgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp" group-title="FOOTBALL", Almería vs Málaga
 https://embed.st/embed/admin/ppv-almer-a-vs-m-laga/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Germany - Ivory Coast
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGCTMQAgAxhuIQ3x0gSIGGZDXEEIwWAaY-YbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="FOOTBALL", Germany vs Ivory Coast
 https://embed.st/embed/golf/23257/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Germany - Ivory Coast
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGCTMQAgAxhuIQ3x0gSIGGZDXEEIwWAaY-YbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="FOOTBALL", Germany vs Ivory Coast
 https://embed.st/embed/golf/23257/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Ecuador - Curaçao
 https://embed.st/embed/golf/23258/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
@@ -267,21 +179,21 @@ https://embed.st/embed/golf/23273/2|Referer=https://streamed.pk/&User-Agent=Mozi
 https://embed.st/embed/admin/ppv-bc-lions-vs-hamilton-tiger-cats/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRCGBhBUsNxD6pIRDBAoQJEBFwWrBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="AMERICAN FOOTBALL", Hamilton Tiger-Cats vs BC Lions
 https://embed.st/embed/admin/ppv-bc-lions-vs-hamilton-tiger-cats/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGwGjQgiQiCcJAhsICIvEgsOjSOzrdMPSclSFNXSpTZb-MIIMFD9wsCS5JtoY9bzhUnoXeHJHYHkyCCA.webp" group-title="AMERICAN FOOTBALL", Paris Lights vs. Alpine Rams
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGwGjQgiQiCcJAhsICIvEgsOjSOzrdMPSclSFNXSpTZb-MIIMFD9wsCS5JtoY9bzhUnoXeHJHYHkyCCA.webp" group-title="AMERICAN FOOTBALL", Alpine Rams vs Paris Lights
 https://embed.st/embed/admin/ppv-paris-lights-vs-alpine-rams/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGwGjQgiQiCcJAhsICIvEgsOjSOzrdMPSclSFNXSpTZb-MIIMFD9wsCS5JtoY9bzhUnoXeHJHYHkyCCA.webp" group-title="AMERICAN FOOTBALL", Paris Lights vs. Alpine Rams
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGwGjQgiQiCcJAhsICIvEgsOjSOzrdMPSclSFNXSpTZb-MIIMFD9wsCS5JtoY9bzhUnoXeHJHYHkyCCA.webp" group-title="AMERICAN FOOTBALL", Alpine Rams vs Paris Lights
 https://embed.st/embed/admin/ppv-paris-lights-vs-alpine-rams/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFRABjbCBggIC6SBXxgiLCHGKUpLSF1Y9MxCpVSQicfOFylU3fzCCRTbPTCFgSXA6HluTghXMl0CdXJnYGCyCCA.webp" group-title="AMERICAN FOOTBALL", Toronto Argonauts vs. Ottawa RedBlacks
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCQgUYPglAhuIKSEQxtIEiAi5L1gpop9hs+jpUouYMvCJZZnky0YN5iohBAA.webp" group-title="AMERICAN FOOTBALL", Ottawa Redblacks vs Toronto Argonauts
 https://embed.st/embed/admin/ppv-toronto-argonauts-vs-ottawa-red-blacks/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFRABjbCBggIC6SBXxgiLCHGKUpLSF1Y9MxCpVSQicfOFylU3fzCCRTbPTCFgSXA6HluTghXMl0CdXJnYGCyCCA.webp" group-title="AMERICAN FOOTBALL", Toronto Argonauts vs. Ottawa RedBlacks
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMMCQgUYPglAhuIKSEQxtIEiAi5L1gpop9hs+jpUouYMvCJZZnky0YN5iohBAA.webp" group-title="AMERICAN FOOTBALL", Ottawa Redblacks vs Toronto Argonauts
 https://embed.st/embed/admin/ppv-toronto-argonauts-vs-ottawa-red-blacks/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEGSwhE44cAggYIZTFLBxUsiQkj5IAMYg52pRBEG98YIhQHFIlOTMChugtnphCwJLn2OhMG5OM2N6dyswIPk1CCA.webp" group-title="AMERICAN FOOTBALL", Montreal Alouettes vs. Edmonton Elks
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBh0Qo+GBQhuIKTpARcIPiEQaTIAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="AMERICAN FOOTBALL", Edmonton Elks vs Montreal Alouettes
 https://embed.st/embed/admin/ppv-montreal-alouettes-vs-edmonton-elks/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEGSwhE44cAggYIZTFLBxUsiQkj5IAMYg52pRBEG98YIhQHFIlOTMChugtnphCwJLn2OhMG5OM2N6dyswIPk1CCA.webp" group-title="AMERICAN FOOTBALL", Montreal Alouettes vs. Edmonton Elks
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBh0Qo+GBQhuIKTpARcIPiEQaTIAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="AMERICAN FOOTBALL", Edmonton Elks vs Montreal Alouettes
 https://embed.st/embed/admin/ppv-montreal-alouettes-vs-edmonton-elks/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCETDJILMAggSIEMCqKQAYxARSs7JvVYQ0lWuUTla6TrU7pEiCnI6BQkU2z0whYElwanITBuTjtSegJgeHJg+XCIIA.webp" group-title="AMERICAN FOOTBALL", Saskatchewan Roughriders vs. Calgary Stampeders
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiD5gBiPiG76QUkIhggUIDRFyX9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="AMERICAN FOOTBALL", Calgary Stampeders vs Saskatchewan Roughriders
 https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-calgary-stampeders/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCETDJILMAggSIEMCqKQAYxARSs7JvVYQ0lWuUTla6TrU7pEiCnI6BQkU2z0whYElwanITBuTjtSegJgeHJg+XCIIA.webp" group-title="AMERICAN FOOTBALL", Saskatchewan Roughriders vs. Calgary Stampeders
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiD5gBiPiG76QUkIhggUIDRFyX9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="AMERICAN FOOTBALL", Calgary Stampeders vs Saskatchewan Roughriders
 https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-calgary-stampeders/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBEgI07KRBUQMBSOA14UjTI3DgEpcBm6SILOMOGVEKSBTlrAoaoJy7YQsCS4AxnaFhuTmtjehcNMACLMgggA.webp" group-title="AMERICAN FOOTBALL", Vienna Vikings vs. London Warriors
 https://embed.st/embed/admin/ppv-vienna-vikings-vs-london-warriors/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
@@ -291,30 +203,6 @@ https://embed.st/embed/admin/ppv-vienna-vikings-vs-london-warriors/2|Referer=htt
 https://embed.st/embed/admin/ppv-berlin-thunder-vs-rhein-fire/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGlhEgsIFCGHzgEedMUlxwRGSoh1CmTrkxZimsNJSaOnaPIRQYQSKbZ6YQsCS4AxiiHluTntzMj8CTXJHJQsIIA.webp" group-title="AMERICAN FOOTBALL", Berlin Thunder vs. Rhein Fire
 https://embed.st/embed/admin/ppv-berlin-thunder-vs-rhein-fire/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPGp8wKkNxB8QRmLhAozBkIhgFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="BASEBALL", Kansas City Royals vs St. Louis Cardinals
-https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-kansas-city-royals/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPGp8wKkNxB8QRmLhAozBkIhgFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="BASEBALL", Kansas City Royals vs St. Louis Cardinals
-https://embed.st/embed/admin/ppv-st-louis-cardinals-vs-kansas-city-royals/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPGp8wKkNxB8QRmLhAozBkIhgFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="BASEBALL", Kansas City Royals vs St. Louis Cardinals
-https://embed.st/embed/delta/live_mlb_royals-cardinals-live-streaming-1328417253/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPGp8wKkNxB8QRmLhAozBkIhgFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="BASEBALL", Kansas City Royals vs St. Louis Cardinals
-https://embed.st/embed/delta/live_mlb_royals-cardinals-live-streaming-1328417253/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPGp8wKkNxB8QRmLhAozBkIhgFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="BASEBALL", Kansas City Royals vs St. Louis Cardinals
-https://embed.st/embed/echo/kansas-city-royals-vs-stlouis-cardinals-baseball-179130/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPGp8wKkNxB8QRmLhAozBkIhgFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="BASEBALL", Kansas City Royals vs St. Louis Cardinals
-https://embed.st/embed/echo/kansas-city-royals-vs-stlouis-cardinals-baseball-179130/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPGp8wKkNxB8QRmLhAozBkIhgFgSCn2Gz6KHWxRcd5ellkemtGBu9KIQQA.webp" group-title="BASEBALL", Kansas City Royals vs St. Louis Cardinals
-https://embed.st/embed/golf/23254/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="BASEBALL", Athletics vs Los Angeles Angels
-https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="BASEBALL", Athletics vs Los Angeles Angels
-https://embed.st/embed/admin/ppv-los-angeles-angels-vs-athletics/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="BASEBALL", Athletics vs Los Angeles Angels
-https://embed.st/embed/echo/athletics-vs-los-angeles-angels-baseball-179133/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="BASEBALL", Athletics vs Los Angeles Angels
-https://embed.st/embed/echo/athletics-vs-los-angeles-angels-baseball-179133/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmDJIGYKSBghuIPiFMGcKEJZOJ4BYEgp9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp" group-title="BASEBALL", Athletics vs Los Angeles Angels
-https://embed.st/embed/golf/23255/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAoQfMFLAhgSENx0hzMXFut8QEXASMU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="BASEBALL", Chicago Cubs vs Toronto Blue Jays
 https://embed.st/embed/golf/23259/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUCFlLsIbiD4hDMXCBSn9ICLoLAkFPsK3swKlFxfl6WWW6a0wLmKiEEA.webp" group-title="BASEBALL", Detroit Tigers vs Chicago White Sox
@@ -327,34 +215,26 @@ https://embed.st/embed/golf/23262/1|Referer=https://streamed.pk/&User-Agent=Mozi
 https://embed.st/embed/golf/23263/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhg8wUkCjYhuIPiFMxceyyYgaCwJBT7DZ9FGBX6278vSyz9TLRg7mKiEEA.webp" group-title="BASEBALL", Atlanta Braves vs Milwaukee Brewers
 https://embed.st/embed/golf/23264/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASEBALL", Texas Rangers - San Diego Padres
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxCIcieGE2a+IYzFwgU5kEcQkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASEBALL", Texas Rangers vs San Diego Padres
 https://embed.st/embed/golf/23265/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASEBALL", Houston Astros - Cleveland Guardians
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFLAScQwJCG4g+IYzFwgU5wyAggYBXRT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="BASEBALL", Houston Astros vs Cleveland Guardians
 https://embed.st/embed/golf/23266/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASEBALL", Kansas City Royals - St. Louis Cardinals
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXrRQhaULdxB8QRmLhBathxCgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="BASEBALL", Kansas City Royals vs St. Louis Cardinals
 https://embed.st/embed/golf/23267/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASEBALL", Colorado Rockies - Pittsburgh Pirates
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVEQymobiD4hDMXCBSn9ICCAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="BASEBALL", Colorado Rockies vs Pittsburgh Pirates
 https://embed.st/embed/golf/23268/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASEBALL", Athletics - Los Angeles Angels
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJxRgSILTu4g+IYzFy7zRiCAVMkFPsNn09bFF23l6WWW6a0w2mKiEEA.webp" group-title="BASEBALL", Athletics vs Los Angeles Angels
 https://embed.st/embed/golf/23269/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASEBALL", Arizona Diamondbacks - Minnesota Twins
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKPVYwfDSAghuIXSBAxcIFJeP6NBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="BASEBALL", Arizona Diamondbacks vs Minnesota Twins
 https://embed.st/embed/golf/23270/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASEBALL", Seattle Mariners - Boston Red Sox
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGKRBSiZRNxB8QRmLhAozBkBDMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", Seattle Mariners vs Boston Red Sox
 https://embed.st/embed/golf/23272/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASEBALL", Los Angeles Dodgers - Baltimore Orioles
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKLAgYbMN0ghuIPiFMxcIFJeMhECpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="BASEBALL", Los Angeles Dodgers vs Baltimore Orioles
 https://embed.st/embed/golf/23271/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="MOTOR SPORTS", Nascar Cup Series 2026 - Coca-Cola 600
 https://embed.st/embed/delta/live-event_nascar-cup-series-2026-coca-cola-600-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" group-title="MOTOR SPORTS", Rally TV
 https://embed.st/embed/admin/admin-rally-tv/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="FIGHT (UFC, BOXING)", TNA: Impact
-https://embed.st/embed/admin/ppv-tna-impact/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="FIGHT (UFC, BOXING)", TNA: Impact
-https://embed.st/embed/admin/ppv-tna-impact/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="FIGHT (UFC, BOXING)", TNA: Impact
-https://embed.st/embed/echo/tna-impact-game-11114/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="FIGHT (UFC, BOXING)", TNA: Impact
-https://embed.st/embed/echo/tna-impact-game-11114/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp" group-title="FIGHT (UFC, BOXING)", WWE: Friday Night Smackdown
 https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp" group-title="FIGHT (UFC, BOXING)", WWE: Friday Night Smackdown
@@ -375,17 +255,17 @@ https://embed.st/embed/admin/admin-tennis-channel/2|Referer=https://streamed.pk/
 https://embed.st/embed/admin/ppv-knights-vs-dragons/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeNjZgQzBiG4g+IKSFMl9IRAZMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="RUGBY", Newcastle Knights vs St. George Illawara Dragons
 https://embed.st/embed/admin/ppv-knights-vs-dragons/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDGCIIIKiBghF8UiJBZF8kCS3AIpTQGMQeuWXU1z+4fsmIQKcnoFCRTbPTCFgSXAYdCwbk49azIHAilyQN0VCCA.webp" group-title="RUGBY", Wests Tigers vs. Dolphins
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBAgo3MANDcQfEFK0gSIQ4kOmpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="RUGBY", Wests Tigers vs Dolphins
 https://embed.st/embed/admin/ppv-wests-tigers-vs-dolphins/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDGCIIIKiBghF8UiJBZF8kCS3AIpTQGMQeuWXU1z+4fsmIQKcnoFCRTbPTCFgSXAYdCwbk49azIHAilyQN0VCCA.webp" group-title="RUGBY", Wests Tigers vs. Dolphins
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBAgo3MANDcQfEFK0gSIQ4kOmpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="RUGBY", Wests Tigers vs Dolphins
 https://embed.st/embed/admin/ppv-wests-tigers-vs-dolphins/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcTBEgyEEDBABjEPCmyspEChBZxuktOCzxK9TR1Vl2kBA1bJJFORsChIptnphCwJLgWOhMG5OG2FSegJgFTAgw3CIIA.webp" group-title="RUGBY", Titans vs. Panthers
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcHBggt3BCG4g+h-SAggUIErhA2YBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="RUGBY", Gold Coast Titans vs Penrith Panthers
 https://embed.st/embed/admin/ppv-titans-vs-panthers/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcTBEgyEEDBABjEPCmyspEChBZxuktOCzxK9TR1Vl2kBA1bJJFORsChIptnphCwJLgWOhMG5OG2FSegJgFTAgw3CIIA.webp" group-title="RUGBY", Titans vs. Panthers
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcHBggt3BCG4g+h-SAggUIErhA2YBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="RUGBY", Gold Coast Titans vs Penrith Panthers
 https://embed.st/embed/admin/ppv-titans-vs-panthers/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52pEIgggqIAMYiJIYQpTAaykiBRbSItdIOqpMEFiVyLm+Zp38wgvQWz0whYElyzVQ+6wh6yVSd4cntgfzIIIA.webp" group-title="RUGBY", Bulldogs vs. Sea Eagles
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGUxR1swJCG4g+IKSFMl9IRAaNSCuin2Gz6KMCq1s35elllamtGBuYqIQQA.webp" group-title="RUGBY", Canterbury Bankstown Bulldogs vs Manly Sea Eagles
 https://embed.st/embed/admin/ppv-bulldogs-vs-sea-eagles/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52pEIgggqIAMYiJIYQpTAaykiBRbSItdIOqpMEFiVyLm+Zp38wgvQWz0whYElyzVQ+6wh6yVSd4cntgfzIIIA.webp" group-title="RUGBY", Bulldogs vs. Sea Eagles
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGUxR1swJCG4g+IKSFMl9IRAaNSCuin2Gz6KMCq1s35elllamtGBuYqIQQA.webp" group-title="RUGBY", Canterbury Bankstown Bulldogs vs Manly Sea Eagles
 https://embed.st/embed/admin/ppv-bulldogs-vs-sea-eagles/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGMHiSRpEBFmIswKuNkBjECRApZEEBrXZNIRHpjiQWC6ZlW1O-mEEyC2emELAkue0PLdOeWFSelcpMCdgeTIIIA.webp" group-title="RUGBY", Warriors vs. Cowboys
 https://embed.st/embed/admin/ppv-warriors-vs-cowboys/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
@@ -415,11 +295,19 @@ https://embed.st/embed/admin/admin-willow-cricket/4|Referer=https://streamed.pk/
 https://embed.st/embed/admin/admin-willow-cricket/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="CRICKET", Willow Cricket
 https://embed.st/embed/admin/admin-willow-cricket/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", World of Outlaws Sprints Hussets
-https://embed.st/embed/echo/ppv-event-04-world-of-outlaws-sprints-hussets-ppv-004/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", World of Outlaws Sprints Hussets
-https://embed.st/embed/echo/ppv-event-04-world-of-outlaws-sprints-hussets-ppv-004/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", Summer Nationals Late Models Dubuque
-https://embed.st/embed/echo/ppv-event-06-summer-nationals-late-models-dubuque-ppv-06/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", Summer Nationals Late Models Dubuque
-https://embed.st/embed/echo/ppv-event-06-summer-nationals-late-models-dubuque-ppv-06/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", ATP / WTA: Halle / Berlin 🎾
+https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", ATP / WTA: Halle / Berlin 🎾
+https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", ATP / WTA: Halle / Berlin 🎾
+https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", ATP / WTA: Halle / Berlin 🎾
+https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", U.S. Open Championship
+https://embed.st/embed/echo/us-open-championship-atp1000/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", U.S. Open Championship
+https://embed.st/embed/echo/us-open-championship-atp1000/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", U.S. Open Championship
+https://embed.st/embed/echo/us-open-championship-atp1000/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", U.S. Open Championship
+https://embed.st/embed/echo/us-open-championship-atp1000/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
