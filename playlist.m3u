@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", 2026 NBA Draft
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="BASKETBALL", 2026 NBA Draft
 https://embed.st/embed/delta/live-event_2026-nba-draft-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjkawKMAIAMIbiCkgSRjZZAgIZ3AWBIKfYbPq6VmtmDLwiWWU0mWjAfMVEIIA.webp" group-title="BASKETBALL", Washington Mystics vs Minnesota Lynx
 https://embed.st/embed/admin/ppv-minnesota-lynx-vs-washington-mystics/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
@@ -363,6 +363,12 @@ https://embed.st/embed/admin/ppv-texas-rangers-vs-miami-marlins/1|Referer=https:
 https://embed.st/embed/admin/ppv-texas-rangers-vs-miami-marlins/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECn6hyApCG4g+IYzFwbzJ4wWBIKfYbPoowKzWxfl6WWZqa0wLmKiEEA.webp" group-title="BASEBALL", Miami Marlins vs Texas Rangers
 https://embed.st/embed/golf/23375/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNohmIPrBDddIYzFwgU5o32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", New York Mets vs Chicago Cubs
+https://embed.st/embed/admin/ppv-chicago-cubs-vs-new-york-mets/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNohmIPrBDddIYzFwgU5o32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", New York Mets vs Chicago Cubs
+https://embed.st/embed/admin/ppv-chicago-cubs-vs-new-york-mets/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNohmIPrBDddIYzFwgU5o32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", New York Mets vs Chicago Cubs
+https://embed.st/embed/golf/23376/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSRg+sEFJCJuIPiFMxcIFJdMgjjYFpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="BASEBALL", Chicago White Sox vs Cleveland Guardians
 https://embed.st/embed/admin/ppv-cleveland-guardians-vs-chicago-white-sox/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSRg+sEFJCJuIPiFMxcIFJdMgjjYFpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="BASEBALL", Chicago White Sox vs Cleveland Guardians
@@ -417,12 +423,6 @@ https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-cincinnati-reds/1|Referer=
 https://embed.st/embed/admin/ppv-milwaukee-brewers-vs-cincinnati-reds/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKDBCIUwGYm4g+IY5pwoQ54wYlMkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp" group-title="BASEBALL", Cincinnati Reds vs Milwaukee Brewers
 https://embed.st/embed/golf/23386/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNohmIPrBDddIYzFwgU5o32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", New York Mets vs Chicago Cubs
-https://embed.st/embed/admin/ppv-chicago-cubs-vs-new-york-mets/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNohmIPrBDddIYzFwgU5o32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", New York Mets vs Chicago Cubs
-https://embed.st/embed/admin/ppv-chicago-cubs-vs-new-york-mets/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNohmIPrBDddIYzFwgU5o32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", New York Mets vs Chicago Cubs
-https://embed.st/embed/golf/23376/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAztcIUfXwhuIPiBMxtKEBdMgpBYEgp9hs+ijAqUXd+XpZZnplowdzFdIA.webp" group-title="BASEBALL", Minnesota Twins vs Los Angeles Dodgers
 https://embed.st/embed/admin/ppv-los-angeles-dodgers-vs-minnesota-twins/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAztcIUfXwhuIPiBMxtKEBdMgpBYEgp9hs+ijAqUXd+XpZZnplowdzFdIA.webp" group-title="BASEBALL", Minnesota Twins vs Los Angeles Dodgers
@@ -487,14 +487,6 @@ https://embed.st/embed/admin/admin-sky-sports-tennis/2|Referer=https://streamed.
 https://embed.st/embed/admin/admin-tennis-channel/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" group-title="TENNIS", Tennis Channel
 https://embed.st/embed/admin/admin-tennis-channel/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="TENNIS", ATP / WTA: Bad Homburg / Mallorca 🎾
-https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="TENNIS", ATP / WTA: Bad Homburg / Mallorca 🎾
-https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="TENNIS", ATP / WTA: Bad Homburg / Mallorca 🎾
-https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="TENNIS", ATP / WTA: Bad Homburg / Mallorca 🎾
-https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlRgg4KMFJDcQfEPpAgSBkIkMojBYEgp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp" group-title="RUGBY", Parramatta Eels vs South Sydney Rabbitohs
 https://embed.st/embed/admin/ppv-eels-vs-rabbitohs/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlRgg4KMFJDcQfEPpAgSBkIkMojBYEgp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp" group-title="RUGBY", Parramatta Eels vs South Sydney Rabbitohs
