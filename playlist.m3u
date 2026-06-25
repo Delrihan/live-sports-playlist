@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4PFIgYwCCCogyJEIhpYVUgMbTsIFLrI1E64SHUQROhZMQyS+-mEEim2emELAkuTfqFPWC3EyfQIJcidZUlkgA.webp" group-title="LIVE NOW", Golden State Valkyries vs Atlanta Dream
-https://embed.st/embed/admin/ppv-atlanta-dream-vs-golden-state-valkyries/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4PFIgYwCCCogyJEIhpYVUgMbTsIFLrI1E64SHUQROhZMQyS+-mEEim2emELAkuTfqFPWC3EyfQIJcidZUlkgA.webp" group-title="LIVE NOW", Golden State Valkyries vs Atlanta Dream
-https://embed.st/embed/admin/ppv-atlanta-dream-vs-golden-state-valkyries/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECg39gYEPGwhuIPiFMxcGy2ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", San Francisco Giants vs Athletics
-https://embed.st/embed/admin/ppv-athletics-vs-san-francisco-giants/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECg39gYEPGwhuIPiFMxcGy2ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", San Francisco Giants vs Athletics
-https://embed.st/embed/admin/ppv-athletics-vs-san-francisco-giants/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECg39gYEPGwhuIPiFMxcGy2ZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", San Francisco Giants vs Athletics
-https://embed.st/embed/golf/23390/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJexAzgYbiD18QRmLhAozRkCZIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", San Diego Padres vs Atlanta Braves
-https://embed.st/embed/golf/23389/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", World Rally Championship 2026 - Rally Greece
+https://embed.st/embed/delta/live-event_world-rally-championship-2026-rally-greece-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEAGMRwRDGllx4rMAghEqrCBRq1MySCohV8bCr1TxJ4SE1kqKchFBhB0gqYdhCwJLgkOhF1YnYVJ6dxMwFzMyCCA.webp" group-title="BASKETBALL", Toronto Tempo vs Los Angeles Sparks
 https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-toronto-tempo/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEAGMRwRDGllx4rMAghEqrCBRq1MySCohV8bCr1TxJ4SE1kqKchFBhB0gqYdhCwJLgkOhF1YnYVJ6dxMwFzMyCCA.webp" group-title="BASKETBALL", Toronto Tempo vs Los Angeles Sparks
@@ -251,34 +241,6 @@ https://embed.st/embed/admin/ppv-norway-vs-france/12|Referer=https://streamed.pk
 https://embed.st/embed/golf/23391/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPrjBkYoEFJDcQGjSRAwQpkCET6FTJBT7DZ9FFrYouW8vSyzPTLRg7vSiEEA.webp" group-title="FOOTBALL", Norway vs France
 https://embed.st/embed/golf/23391/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/11|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/12|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/golf/23393/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
-https://embed.st/embed/golf/23393/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADG2UiBIh4IkBAVypIGLJWIVIJcOCKJEldpGGQwkNfkpgVO-zCDzBGY8LAkuSXaHPWCHMyOzdFMGdgILIIIA.webp" group-title="FOOTBALL", Uruguay vs. Spain
 https://embed.st/embed/admin/ppv-uruguay-vs-spain/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADG2UiBIh4IkBAVypIGLJWIVIJcOCKJEldpGGQwkNfkpgVO-zCDzBGY8LAkuSXaHPWCHMyOzdFMGdgILIIIA.webp" group-title="FOOTBALL", Uruguay vs. Spain
@@ -307,6 +269,34 @@ https://embed.st/embed/admin/ppv-uruguay-vs-spain/12|Referer=https://streamed.pk
 https://embed.st/embed/golf/23394/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADG2UiBIh4IkBAVypIGLJWIVIJcOCKJEldpGGQwkNfkpgVO-zCDzBGY8LAkuSXaHPWCHMyOzdFMGdgILIIIA.webp" group-title="FOOTBALL", Uruguay vs. Spain
 https://embed.st/embed/golf/23394/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/11|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/12|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/golf/23393/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCGEjs0+KUmlgEEMsRlhIGMCogyJEAcRZtIgyGNYVp41KlYU5CKDCDpBGQ7CFgSXAGMHIRdWJykyB3c5MBclRQggA.webp" group-title="FOOTBALL", Cape Verde vs. Saudi Arabia
+https://embed.st/embed/golf/23393/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBBBUQKEAGMpwabIikQqkjJBYlS7fJCHpiOdlLYQiGsIOysIUeVUChIpmZTlCwJLjmehMG5OVWFzTwJgcTAgiXMIIA.webp" group-title="FOOTBALL", Egypt vs. Iran
 https://embed.st/embed/admin/ppv-egypt-vs-iran/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBBBUQKEAGMpwabIikQqkjJBYlS7fJCHpiOdlLYQiGsIOysIUeVUChIpmZTlCwJLjmehMG5OVWFzTwJgcTAgiXMIIA.webp" group-title="FOOTBALL", Egypt vs. Iran
@@ -400,6 +390,10 @@ https://embed.st/embed/admin/ppv-seattle-mariners-vs-pittsburgh-pirates/2|Refere
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFD4gZTJGBQhuILSBAxcIAwdNHLuin2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", Pittsburgh Pirates vs Seattle Mariners
 https://embed.st/embed/golf/23398/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQIAMIKSBR6Q3EHxCmYuA-tNG+BYEgq3WIsSjAqUXd+XpZZnplowdzFRCCA.webp" group-title="BASEBALL", San Francisco Giants vs Athletics
+https://embed.st/embed/admin/ppv-athletics-vs-san-francisco-giants/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQIAMIKSBR6Q3EHxCmYuA-tNG+BYEgq3WIsSjAqUXd+XpZZnplowdzFRCCA.webp" group-title="BASEBALL", San Francisco Giants vs Athletics
+https://embed.st/embed/admin/ppv-athletics-vs-san-francisco-giants/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQIAMIKSBR6Q3EHxCmYuA-tNG+BYEgq3WIsSjAqUXd+XpZZnplowdzFRCCA.webp" group-title="BASEBALL", San Francisco Giants vs Athletics
 https://embed.st/embed/golf/23399/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBghaILvhDcQfECa04UICycMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASEBALL", Detroit Tigers vs Houston Astros
 https://embed.st/embed/admin/ppv-houston-astros-vs-detroit-tigers/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
@@ -441,8 +435,6 @@ https://embed.st/embed/golf/23405/1|Referer=https://streamed.pk/&User-Agent=Mozi
 https://embed.st/embed/delta/live-event_nascar-cup-series-2026-anduril-250-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" group-title="MOTOR SPORTS", Rally TV
 https://embed.st/embed/admin/admin-rally-tv/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="MOTOR SPORTS", World Rally Championship 2026 - Rally Greece
-https://embed.st/embed/delta/live-event_world-rally-championship-2026-rally-greece-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSTklYECG4g+hjSBS4QMc5ZgFgWmP2Gz6KMCpRc32hrI9NaYG5iohBAA.webp" group-title="MOTOR SPORTS", Austrian Grand Prix Practice 1
 https://embed.st/embed/golf/23369/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="MOTOR SPORTS", Austrian Grand Prix - Practice 3
@@ -455,9 +447,9 @@ https://embed.st/embed/delta/live-event_2026-pfl-mena-2-jeddah-live-stream/1|Ref
 https://embed.st/embed/admin/ppv-tna-impact/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="FIGHT (UFC, BOXING)", TNA: Impact
 https://embed.st/embed/admin/ppv-tna-impact/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGweDNIgUwCWRJSQWJSFkaNwkPv0RScrAZUhhS7DJAxgEC4v5hBIptaeFgSXJMVCXViNLMkUCOTAXe2MIIA.webp" group-title="FIGHT (UFC, BOXING)", ONE Friday Fights 160
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGweDNIgUwCWRJSQWJSFkaNwkPv0RScrAZUhhS7DJAxgEC4v5hBIptaeFgSXJMVCXViNLMkUCOTAXe2MIIA.webp" group-title="FIGHT (UFC, BOXING)", ONE Friday Fights 160 & The Inner Circle 20
 https://embed.st/embed/admin/ppv-one-friday-fights-160-the-inner-circle-20/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGweDNIgUwCWRJSQWJSFkaNwkPv0RScrAZUhhS7DJAxgEC4v5hBIptaeFgSXJMVCXViNLMkUCOTAXe2MIIA.webp" group-title="FIGHT (UFC, BOXING)", ONE Friday Fights 160
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGweDNIgUwCWRJSQWJSFkaNwkPv0RScrAZUhhS7DJAxgEC4v5hBIptaeFgSXJMVCXViNLMkUCOTAXe2MIIA.webp" group-title="FIGHT (UFC, BOXING)", ONE Friday Fights 160 & The Inner Circle 20
 https://embed.st/embed/admin/ppv-one-friday-fights-160-the-inner-circle-20/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp" group-title="FIGHT (UFC, BOXING)", WWE: Friday Night Smackdown
 https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
@@ -533,3 +525,9 @@ https://embed.st/embed/admin/admin-willow-cricket/4|Referer=https://streamed.pk/
 https://embed.st/embed/admin/admin-willow-cricket/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="CRICKET", Willow Cricket
 https://embed.st/embed/admin/admin-willow-cricket/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", England vs New Zealand
+https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", England vs New Zealand
+https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", England vs New Zealand
+https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
