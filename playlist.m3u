@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Saint-Laurent vs Forge
+https://embed.st/embed/echo/saint-laurent-vs-forge-football-1544845/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Saint-Laurent vs Forge
+https://embed.st/embed/echo/saint-laurent-vs-forge-football-1544845/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Saint-Laurent vs Forge
+https://embed.st/embed/echo/saint-laurent-vs-forge-football-1544845/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Wimbledon Championships 2026 🎾
 https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Wimbledon Championships 2026 🎾
@@ -61,12 +67,6 @@ https://embed.st/embed/admin/ppv-sacramento-kings-vs-la-clippers/1|Referer=https
 https://embed.st/embed/admin/ppv-sacramento-kings-vs-la-clippers/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESHjYQMYBBBYFEgMYgUIKmpAhgNYVtXC5u0iFWJxU-ePmaUwXuXEChIptnphCwJLmX2hMG5OcSMyewIHciDjMgggA.webp" group-title="BASKETBALL", Sacramento Kings vs. LA Clippers
 https://embed.st/embed/golf/23663/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Saint-Laurent vs Forge
-https://embed.st/embed/echo/saint-laurent-vs-forge-football-1544845/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Saint-Laurent vs Forge
-https://embed.st/embed/echo/saint-laurent-vs-forge-football-1544845/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Saint-Laurent vs Forge
-https://embed.st/embed/echo/saint-laurent-vs-forge-football-1544845/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBwxgABm5gQiXppCnE1QyeOmsLJBVvtR4lGFUoeb8o2pyP+VmAwN3ExCCA.webp" group-title="FOOTBALL", France vs Morocco
 https://embed.st/embed/admin/ppv-france-vs-morocco/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBwxgABm5gQiXppCnE1QyeOmsLJBVvtR4lGFUoeb8o2pyP+VmAwN3ExCCA.webp" group-title="FOOTBALL", France vs Morocco
@@ -263,30 +263,30 @@ https://embed.st/embed/golf/23675/1|Referer=https://streamed.pk/&User-Agent=Mozi
 https://embed.st/embed/golf/23676/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuMFBWLwBTYCbYAQxSzPzLCWDWB12Hga00quAGNCF0GdCBQhqjEM1Y4AJhixo5YXLCa8uwMAQSRgATkKk8bMFuKGIQA.webp" group-title="MOTOR SPORTS", Rally TV
 https://embed.st/embed/admin/admin-rally-tv/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/11|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJEgAxiDkSScmSKkSsclYkQhgVcSGGkQelNmDxzIRGWEgY40-zCCVBM48LAkuaaaHPWCBUyUzcLMGdgILIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 1
-https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-1/12|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/11|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYaRABjbCBCSII6SBIrxweMBqrhIGCBoQQRlEppU5ILGvm7NNUeUUChIptnphCwJLimmhMG5ORQkyUwINciDgRTIIIA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 2
+https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/12|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCOCIIILCDJlEwkDSoqQIYGoDGIkLrUpgMxGoilJZraQ0WSR-mEGSC2emELAkubUaFPWc2ELI1d4cidjCwggA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 3
 https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-3/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCOCIIILCDJlEwkDSoqQIYGoDGIkLrUpgMxGoilJZraQ0WSR-mEGSC2emELAkubUaFPWc2ELI1d4cidjCwggA.webp" group-title="MOTOR SPORTS", Belgian Grand Prix - Practice 3
