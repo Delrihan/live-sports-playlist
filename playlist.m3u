@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾
-https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾
-https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾
-https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIILCCogQIhcpTB4wGmRJy5S8SEQoDMkNvXThJ7Uf2X9VVfzCCRTbPTCFgSXONVDnVghXMlUCNXJnKVIpIA.webp" group-title="LIVE NOW", Djurgården vs Halmstad
+https://embed.st/embed/admin/ppv-djurg-rden-vs-halmstads-bk/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIILCCogQIhcpTB4wGmRJy5S8SEQoDMkNvXThJ7Uf2X9VVfzCCRTbPTCFgSXONVDnVghXMlUCNXJnKVIpIA.webp" group-title="LIVE NOW", Djurgården vs Halmstad
+https://embed.st/embed/admin/ppv-djurg-rden-vs-halmstads-bk/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlSi8Q1UGBQhtWECcTaYhkCRDSQi-MCQUsIuYxRhVKHp-KNdYt4O9GCe4mIQQA.webp" group-title="BASKETBALL", New York Knicks vs Detroit Pistons
 https://embed.st/embed/admin/ppv-detroit-pistons-vs-new-york-knicks/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlSi8Q1UGBQhtWECcTaYhkCRDSQi-MCQUsIuYxRhVKHp-KNdYt4O9GCe4mIQQA.webp" group-title="BASKETBALL", New York Knicks vs Detroit Pistons
@@ -147,14 +145,14 @@ https://embed.st/embed/golf/23744/2|Referer=https://streamed.pk/&User-Agent=Mozi
 https://embed.st/embed/admin/ppv-cf-montr-al-vs-toronto-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCHilS4kFhBUFwCDMQkQKBXJAhgiGOJEhhGyWfnC9enSADGWmCnIqBQkU2z0whYEly2nITBuThVLMicCKzBg5WkIIA.webp" group-title="FOOTBALL", CF Montréal vs. Toronto FC
 https://embed.st/embed/admin/ppv-cf-montr-al-vs-toronto-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp" group-title="FOOTBALL", Chicago Fire FC vs. Vancouver Whitecaps
-https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp" group-title="FOOTBALL", Chicago Fire FC vs. Vancouver Whitecaps
-https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggUIKSBDDgiGopLiQAYxCI1irJuBUQZCJKXSFpWSBjb1ukSnKmBQkU2z0whYElwanITBuTlNVegIlcmCzEyA.webp" group-title="FOOTBALL", St. Louis CITY SC vs. Sporting Kansas City
 https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggUIKSBDDgiGopLiQAYxCI1irJuBUQZCJKXSFpWSBjb1ukSnKmBQkU2z0whYElwanITBuTlNVegIlcmCzEyA.webp" group-title="FOOTBALL", St. Louis CITY SC vs. Sporting Kansas City
 https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp" group-title="FOOTBALL", Chicago Fire FC vs. Vancouver Whitecaps
+https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp" group-title="FOOTBALL", Chicago Fire FC vs. Vancouver Whitecaps
+https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8EdlIgAxsHEkQKEFhDDgNCJLXyQumME0RluxZKMp1q9dmP5ymgUIkFJFsIWBJc0i0LDdOTTUyCxdxMH8DUgMgA.webp" group-title="FOOTBALL", Seattle Sounders FC vs. Portland Timbers
 https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-portland-timbers/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8EdlIgAxsHEkQKEFhDDgNCJLXyQumME0RluxZKMp1q9dmP5ymgUIkFJFsIWBJc0i0LDdOTTUyCxdxMH8DUgMgA.webp" group-title="FOOTBALL", Seattle Sounders FC vs. Portland Timbers
@@ -353,6 +351,12 @@ https://embed.st/embed/admin/admin-willow-cricket/4|Referer=https://streamed.pk/
 https://embed.st/embed/admin/admin-willow-cricket/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="CRICKET", Willow Cricket
 https://embed.st/embed/admin/admin-willow-cricket/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾
+https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾
+https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾
+https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAoQAsDuAAGDSCm5j3ECRAQQ2viFtMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="OTHER", Tour de France Stage 10
 https://embed.st/embed/admin/ppv-tour-de-france-stage-10/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAoQAsDuAAGDSCm5j3ECRAQQ2viFtMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="OTHER", Tour de France Stage 10
