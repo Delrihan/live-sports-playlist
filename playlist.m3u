@@ -1,16 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDIhtIHFhC8DundRCnDJTVeb5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp" group-title="LIVE NOW", Viborg vs Odense BK
-https://embed.st/embed/echo/viborg-vs-odense-football-1548974/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZGiRCSQICNikgUwKiCzZ1WEDTUT5AY2XyYIRHLJq5EVSD2ql-MIJFN19wsCS49SoY9ZzhUnoCYHhyR2AzSKA.webp" group-title="LIVE NOW", Rosenborg vs Manchester United
-https://embed.st/embed/admin/ppv-rosenborg-vs-manchester-united/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZGiRCSQICNikgUwKiCzZ1WEDTUT5AY2XyYIRHLJq5EVSD2ql-MIJFN19wsCS49SoY9ZzhUnoCYHhyR2AzSKA.webp" group-title="LIVE NOW", Rosenborg vs Manchester United
-https://embed.st/embed/admin/ppv-rosenborg-vs-manchester-united/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZGiRCSQICNikgUwKiCzZ1WEDTUT5AY2XyYIRHLJq5EVSD2ql-MIJFN19wsCS49SoY9ZzhUnoCYHhyR2AzSKA.webp" group-title="LIVE NOW", Rosenborg vs Manchester United
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhQgYcsN0ghuIPiCkgSIS5cQ4LIAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="LIVE NOW", Wigan Warriors vs St Helens
+https://embed.st/embed/echo/wigan-warriors-vs-st-helens-game-184842/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhQgYcsN0ghuIPiCkgSIS5cQ4LIAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="LIVE NOW", Wigan Warriors vs St Helens
+https://embed.st/embed/echo/wigan-warriors-vs-st-helens-game-184842/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhQgYcsN0ghuIPiCkgSIS5cQ4LIAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="LIVE NOW", Wigan Warriors vs St Helens
+https://embed.st/embed/echo/wigan-warriors-vs-st-helens-game-184842/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiLz+CENxBSQJECYgmQiQ3xMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp" group-title="LIVE NOW", Betfred World Matchplay Day 7
+https://embed.st/embed/admin/ppv-world-matchplay-day-7/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiLz+CENxBSQJECYgmQiQ3xMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp" group-title="LIVE NOW", Betfred World Matchplay Day 7
+https://embed.st/embed/admin/ppv-world-matchplay-day-7/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Pogon Szczecin vs Legia Warszawa
+https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Pogon Szczecin vs Legia Warszawa
+https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Pogon Szczecin vs Legia Warszawa
+https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", World Matchplay Darts  🎯
+https://embed.st/embed/echo/world-matchplay-darts-darts-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", World Matchplay Darts  🎯
+https://embed.st/embed/echo/world-matchplay-darts-darts-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", World Matchplay Darts  🎯
+https://embed.st/embed/echo/world-matchplay-darts-darts-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", PGA Tour: 3M Open Day 2 🏌
+https://embed.st/embed/echo/pga-tour-3m-open-day-2-pga-526234/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", PGA Tour: 3M Open Day 2 🏌
+https://embed.st/embed/echo/pga-tour-3m-open-day-2-pga-526234/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", PGA Tour: 3M Open Day 2 🏌
+https://embed.st/embed/echo/pga-tour-3m-open-day-2-pga-526234/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEZIQMTiBAcQvEFn2aQiEifMwQJFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="LIVE NOW", Västerås vs Örgryte
+https://embed.st/embed/admin/ppv-v-ster-s-sk-vs-rgryte-is/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEZIQMTiBAcQvEFn2aQiEifMwQJFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="LIVE NOW", Västerås vs Örgryte
+https://embed.st/embed/admin/ppv-v-ster-s-sk-vs-rgryte-is/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Rosenborg vs Manchester United
 https://embed.st/embed/echo/rosenborg-vs-manchester-united-game-311111/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZGiRCSQICNikgUwKiCzZ1WEDTUT5AY2XyYIRHLJq5EVSD2ql-MIJFN19wsCS49SoY9ZzhUnoCYHhyR2AzSKA.webp" group-title="LIVE NOW", Rosenborg vs Manchester United
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Rosenborg vs Manchester United
 https://embed.st/embed/echo/rosenborg-vs-manchester-united-game-311111/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvQ5J5OtCF4gsIYwekgUIGOeMhm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp" group-title="LIVE NOW", Radomiak Radom vs Wieczysta Kraków
-https://embed.st/embed/echo/radomiak-radom-vs-wieczysta-krakow-football-1553105/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Mecum Auctions Harrisburg 🔥
 https://embed.st/embed/echo/ppv-event-02-mecum-auctions-harrisburg-ppv-02/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Nascar Truck Series 2026 - NASCAR Craftsman Truck Series Race at IRP
@@ -29,34 +53,6 @@ https://embed.st/embed/echo/liv-golf-uk-round-2-jcb-golf-country-club-game-16262
 https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", UCI Tour de France | UCI World Tour 🏁
 https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="LIVE NOW", Hungarian Grand Prix Practice 1
-https://embed.st/embed/golf/23927/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Swansea City vs Udinese
-https://embed.st/embed/echo/swansea-city-vs-udinese-game-1189553/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Swansea City vs Udinese
-https://embed.st/embed/echo/swansea-city-vs-udinese-game-1189553/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA Tour: Generali / Estoril / Hamburg / Prague Open 🎾
-https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA Tour: Generali / Estoril / Hamburg / Prague Open 🎾
-https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA Tour: Generali / Estoril / Hamburg / Prague Open 🎾
-https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECFIhRvJGG4gDfbSeMGSIKYcsFgemP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Tokyo ePrix Free Practice 1
-https://embed.st/embed/echo/formula-e-tokyo-eprix-free-practice-1-tokyo-street-circuit-game-499954/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECFIhRvJGG4gDfbSeMGSIKYcsFgemP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Tokyo ePrix Free Practice 1
-https://embed.st/embed/echo/formula-e-tokyo-eprix-free-practice-1-tokyo-street-circuit-game-499954/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reLBC9WOCFpB8QUkCZL7EiYyALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="LIVE NOW", South Sydney Rabbitohs vs Melbourne Storm
-https://embed.st/embed/echo/south-sydney-rabbitohs-vs-melbourne-storm-game-197832/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reLBC9WOCFpB8QUkCZL7EiYyALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="LIVE NOW", South Sydney Rabbitohs vs Melbourne Storm
-https://embed.st/embed/echo/south-sydney-rabbitohs-vs-melbourne-storm-game-197832/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reLBC9WOCFpB8QUkCZL7EiYyALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="LIVE NOW", South Sydney Rabbitohs vs Melbourne Storm
-https://embed.st/embed/echo/south-sydney-rabbitohs-vs-melbourne-storm-game-197832/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Pogon Szczecin vs Legia Warszawa
-https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Pogon Szczecin vs Legia Warszawa
-https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Pogon Szczecin vs Legia Warszawa
-https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Gimnasia M. vs Central Cordoba de Santiago
 https://embed.st/embed/echo/gimnasia-m-vs-central-cordoba-de-santiago-football-1493008/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH6rOILCBSbdIYxBAwQiA70PSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp" group-title="FOOTBALL", HFX Wanderers vs Supra du Québec
@@ -153,14 +149,14 @@ https://embed.st/embed/admin/ppv-portland-timbers-vs-real-salt-lake/2|Referer=ht
 https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEUthBSAxiGnBEUqiHGJVkkiGUwFE8eLLC5IFCBgmRug2ZTlxAoZYLZ6YQsCS5ptoWG6dxYQlbZ3hyP2ADSKA.webp" group-title="FOOTBALL", San Jose Earthquakes vs. LA Galaxy
 https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbBEwkFhEgZMiCAhSQIbCpBUtWBfpQhEJWaQkT5MyXOHyqKcqoFCRTbPTCFgSXOIdCwbk5VWzIHAilyQOBVMgggA.webp" group-title="FOOTBALL", Tigres UANL vs. Atlético de San Luis
-https://embed.st/embed/admin/ppv-tigres-uanl-vs-atl-tico-de-san-luis/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbBEwkFhEgZMiCAhSQIbCpBUtWBfpQhEJWaQkT5MyXOHyqKcqoFCRTbPTCFgSXOIdCwbk5VWzIHAilyQOBVMgggA.webp" group-title="FOOTBALL", Tigres UANL vs. Atlético de San Luis
-https://embed.st/embed/admin/ppv-tigres-uanl-vs-atl-tico-de-san-luis/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCADGwCKRBUpICCBIqpM8dhCIYSmVonLENVYizaNuhTXjBe5WQKEim2emELAkuSSmdhuTllhUnoCO3IA-TIIIA.webp" group-title="FOOTBALL", Santos vs. Atlas
 https://embed.st/embed/admin/ppv-santos-vs-atlas/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCADGwCKRBUpICCBIqpM8dhCIYSmVonLENVYizaNuhTXjBe5WQKEim2emELAkuSSmdhuTllhUnoCO3IA-TIIIA.webp" group-title="FOOTBALL", Santos vs. Atlas
 https://embed.st/embed/admin/ppv-santos-vs-atlas/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbBEwkFhEgZMiCAhSQIbCpBUtWBfpQhEJWaQkT5MyXOHyqKcqoFCRTbPTCFgSXOIdCwbk5VWzIHAilyQOBVMgggA.webp" group-title="FOOTBALL", Tigres UANL vs. Atlético de San Luis
+https://embed.st/embed/admin/ppv-tigres-uanl-vs-atl-tico-de-san-luis/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbBEwkFhEgZMiCAhSQIbCpBUtWBfpQhEJWaQkT5MyXOHyqKcqoFCRTbPTCFgSXOIdCwbk5VWzIHAilyQOBVMgggA.webp" group-title="FOOTBALL", Tigres UANL vs. Atlético de San Luis
+https://embed.st/embed/admin/ppv-tigres-uanl-vs-atl-tico-de-san-luis/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjYQEEDVlZS4udIhKJw5QGNgiHWuFKUILSDNUQiKWTWySKcmoFCRTbPTCFgSXFodCwbk4DUnoCXXJA4DUbIA.webp" group-title="FOOTBALL", Auckland FC vs. Tottenham Hotspur
 https://embed.st/embed/admin/ppv-auckland-fc-vs-tottenham-hotspur/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjYQEEDVlZS4udIhKJw5QGNgiHWuFKUILSDNUQiKWTWySKcmoFCRTbPTCFgSXFodCwbk4DUnoCXXJA4DUbIA.webp" group-title="FOOTBALL", Auckland FC vs. Tottenham Hotspur
@@ -471,12 +467,12 @@ https://embed.st/embed/admin/ppv-errol-spence-jr-vs-tim-tszyu/2|Referer=https://
 https://embed.st/embed/admin/admin-tennis-channel/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" group-title="TENNIS", Tennis Channel
 https://embed.st/embed/admin/admin-tennis-channel/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhQgYcsN0ghuIPiCkgSIS5cQ4LIAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="RUGBY", Wigan Warriors vs St Helens
-https://embed.st/embed/echo/wigan-warriors-vs-st-helens-game-184842/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhQgYcsN0ghuIPiCkgSIS5cQ4LIAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="RUGBY", Wigan Warriors vs St Helens
-https://embed.st/embed/echo/wigan-warriors-vs-st-helens-game-184842/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhQgYcsN0ghuIPiCkgSIS5cQ4LIAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="RUGBY", Wigan Warriors vs St Helens
-https://embed.st/embed/echo/wigan-warriors-vs-st-helens-game-184842/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="TENNIS", ATP / WTA Tour: Generali / Estoril / Hamburg / Prague Open 🎾
+https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="TENNIS", ATP / WTA Tour: Generali / Estoril / Hamburg / Prague Open 🎾
+https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="TENNIS", ATP / WTA Tour: Generali / Estoril / Hamburg / Prague Open 🎾
+https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiDJJgYELRQgNfEFJBmShvVePwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="RUGBY", Canberra Raiders vs Wests Tigers
 https://embed.st/embed/admin/ppv-raiders-vs-wests-tigers/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiDJJgYELRQgNfEFJBmShvVePwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="RUGBY", Canberra Raiders vs Wests Tigers
@@ -497,22 +493,6 @@ https://embed.st/embed/admin/ppv-dragons-vs-titans/2|Referer=https://streamed.pk
 https://embed.st/embed/admin/ppv-sea-eagles-vs-sharks/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52weOOwhhwKiBIgsIZXIURSIGBpSbJZCCAlyQs5Ys3KNCuVhTl1AoSKbZ6YQsCS4AxnaFhuTnUZMjsCSTAA4HV9IA.webp" group-title="RUGBY", Sea Eagles vs. Sharks
 https://embed.st/embed/admin/ppv-sea-eagles-vs-sharks/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="GOLF", PGA Tour: 3M Open Day 2 🏌
-https://embed.st/embed/echo/pga-tour-3m-open-day-2-pga-526234/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="GOLF", PGA Tour: 3M Open Day 2 🏌
-https://embed.st/embed/echo/pga-tour-3m-open-day-2-pga-526234/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="GOLF", PGA Tour: 3M Open Day 2 🏌
-https://embed.st/embed/echo/pga-tour-3m-open-day-2-pga-526234/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="DARTS", World Matchplay Darts  🎯
-https://embed.st/embed/echo/world-matchplay-darts-darts-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="DARTS", World Matchplay Darts  🎯
-https://embed.st/embed/echo/world-matchplay-darts-darts-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="DARTS", World Matchplay Darts  🎯
-https://embed.st/embed/echo/world-matchplay-darts-darts-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiLz+CENxBSQJECYgmQiQ3xMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp" group-title="DARTS", Betfred World Matchplay Day 7
-https://embed.st/embed/admin/ppv-world-matchplay-day-7/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiLz+CENxBSQJECYgmQiQ3xMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp" group-title="DARTS", Betfred World Matchplay Day 7
-https://embed.st/embed/admin/ppv-world-matchplay-day-7/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCCBDAJJECjkiRILMCohE8YJokSUSiVhAS1h+cMnZlc9RdHkIoMIMUFs9MIWBJcAYz1CnVgdhUnpXTTAnaVCIIA.webp" group-title="DARTS", World Matchplay - Semifinals
 https://embed.st/embed/admin/ppv-world-matchplay-semifinals/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCCBDAJJECjkiRILMCohE8YJokSUSiVhAS1h+cMnZlc9RdHkIoMIMUFs9MIWBJcAYz1CnVgdhUnpXTTAnaVCIIA.webp" group-title="DARTS", World Matchplay - Semifinals
@@ -533,6 +513,12 @@ https://embed.st/embed/admin/admin-willow-cricket/4|Referer=https://streamed.pk/
 https://embed.st/embed/admin/admin-willow-cricket/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="CRICKET", Willow Cricket
 https://embed.st/embed/admin/admin-willow-cricket/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", PPV EVENT 06: Senators Cup Stafford
+https://embed.st/embed/echo/ppv-event-06-senators-cup-stafford-gameev-6/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", PPV EVENT 08: High Limit Racing Stateline
+https://embed.st/embed/echo/ppv-event-08-high-limit-racing-stateline-gameev-8/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", PPV EVENT 07: World of Outlaws Late Models Fairbury
+https://embed.st/embed/echo/ppv-event-07-world-of-outlaws-late-models-fairbury-gameev-7/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8retzBItYXlJDcQ+nIcMkQEEChA2rTbTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="OTHER", Tour de France Stage 20
 https://embed.st/embed/admin/ppv-tour-de-france-stage-20/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8retzBItYXlJDcQ+nIcMkQEEChA2rTbTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="OTHER", Tour de France Stage 20
