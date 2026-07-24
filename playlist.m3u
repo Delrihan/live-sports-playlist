@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", IWR Insane Rumble 2026
+https://embed.st/embed/delta/live-event_iwr-insane-rumble-2026-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", USAC Indiana Sprint Week IMS
+https://embed.st/embed/echo/ppv-event-04-usac-indiana-sprint-week-ims-ppv-004/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", USAC Indiana Sprint Week IMS
+https://embed.st/embed/echo/ppv-event-04-usac-indiana-sprint-week-ims-ppv-004/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", High Limit Racing Ransomville ⭐
+https://embed.st/embed/echo/ppv-event-03-high-limit-racing-ransomville-ppv-03/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", High Limit Racing Ransomville ⭐
+https://embed.st/embed/echo/ppv-event-03-high-limit-racing-ransomville-ppv-03/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCQgU-dmC3cQfECZghEZs4Zx8CwJBVusRYlGBU6278vSyydTLRg7mKiEEA.webp" group-title="LIVE NOW", Detroit Tigers vs Kansas City Royals
 https://embed.st/embed/admin/ppv-kansas-city-royals-vs-detroit-tigers/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCQgU-dmC3cQfECZghEZs4Zx8CwJBVusRYlGBU6278vSyydTLRg7mKiEEA.webp" group-title="LIVE NOW", Detroit Tigers vs Kansas City Royals
@@ -13,6 +23,14 @@ https://embed.st/embed/echo/detroit-tigers-vs-kansas-city-royals-baseball-179558
 https://embed.st/embed/golf/23938/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXAxAwQtAAxg+IbiENSQKEGdPmtuAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp" group-title="LIVE NOW", Belgrano vs Rosario Central
 https://embed.st/embed/echo/belgrano-cordoba-vs-rosario-central-football-1493003/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAUmBgwvXiBDcQfEFJAoT+kIkT74BYEgp9hs+ijAqUXD+XpZZXky02qL0oUA.webp" group-title="LIVE NOW", Corinthians vs Remo
+https://embed.st/embed/echo/corinthians-vs-remo-football-1492293/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAUmBgwvXiBDcQfEFJAoT+kIkT74BYEgp9hs+ijAqUXD+XpZZXky02qL0oUA.webp" group-title="LIVE NOW", Corinthians vs Remo
+https://embed.st/embed/echo/corinthians-vs-remo-football-1492293/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Botafogo vs Vitoria
+https://embed.st/embed/echo/botafogo-vs-vitoria-football-1492141/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Botafogo vs Vitoria
+https://embed.st/embed/echo/botafogo-vs-vitoria-football-1492141/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHpJNIWiAEheILCFMRjukCgvnpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="LIVE NOW", Bolívar vs Grêmio
 https://embed.st/embed/echo/bolivar-vs-gremio-football-1547774/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHpJNIWiAEheILCFMRjukCgvnpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="LIVE NOW", Bolívar vs Grêmio
@@ -33,8 +51,6 @@ https://embed.st/embed/delta/live_mlb_cardinals-diamondbacks-live-streaming-5907
 https://embed.st/embed/echo/stlouis-cardinals-vs-arizona-diamondbacks-baseball-179220/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVsDB8QUsLpzcQ2kCBi4QKCyZCH4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="LIVE NOW", St. Louis Cardinals vs Arizona Diamondbacks
 https://embed.st/embed/golf/23937/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMjEo8GwMCG4g+IYzBCJTpgzgVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="LIVE NOW", Toronto Blue Jays vs Tampa Bay Rays
-https://embed.st/embed/golf/23936/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Hull FC vs Hull K R
 https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Hull FC vs Hull K R
@@ -47,12 +63,6 @@ https://embed.st/embed/echo/world-matchplay-darts-darts-1/1|Referer=https://stre
 https://embed.st/embed/echo/world-matchplay-darts-darts-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", World Matchplay Darts  🎯
 https://embed.st/embed/echo/world-matchplay-darts-darts-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", PGA Tour: 3M Open Day 1 🏌
-https://embed.st/embed/echo/pga-tour-3m-open-day-1-pga-526234/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", PGA Tour: 3M Open Day 1 🏌
-https://embed.st/embed/echo/pga-tour-3m-open-day-1-pga-526234/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", PGA Tour: 3M Open Day 1 🏌
-https://embed.st/embed/echo/pga-tour-3m-open-day-1-pga-526234/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", UAE Warriors 72 💥
 https://embed.st/embed/echo/ppv-event-01-uae-warriors-72-ppv-01/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", UAE Warriors 72 💥
@@ -61,18 +71,24 @@ https://embed.st/embed/echo/ppv-event-01-uae-warriors-72-ppv-01/2|Referer=https:
 https://embed.st/embed/echo/ppv-event-02-mecum-auctions-harrisburg-ppv-02/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Mecum Auctions Harrisburg 🔥
 https://embed.st/embed/echo/ppv-event-02-mecum-auctions-harrisburg-ppv-02/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoOogU5EiCwhe+kCYjGtKY2cn5gSClhFzGO1Sh5gy8ItTnvb9GCe4mIQQA.webp" group-title="FOOTBALL", Boca Juniors vs O'Higgins
+https://embed.st/embed/echo/boca-juniors-vs-ohiggins-football-1547773/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoOogU5EiCwhe+kCYjGtKY2cn5gSClhFzGO1Sh5gy8ItTnvb9GCe4mIQQA.webp" group-title="FOOTBALL", Boca Juniors vs O'Higgins
+https://embed.st/embed/echo/boca-juniors-vs-ohiggins-football-1547773/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoOogU5EiCwhe+kCYjGtKY2cn5gSClhFzGO1Sh5gy8ItTnvb9GCe4mIQQA.webp" group-title="FOOTBALL", Boca Juniors vs O'Higgins
+https://embed.st/embed/echo/boca-juniors-vs-ohiggins-football-1547773/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZGiRCSQICNikgUwKiCzZ1WEDTUT5AY2XyYIRHLJq5EVSD2ql-MIJFN19wsCS49SoY9ZzhUnoCYHhyR2AzSKA.webp" group-title="FOOTBALL", Rosenborg vs Manchester United
 https://embed.st/embed/admin/ppv-rosenborg-vs-manchester-united/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZGiRCSQICNikgUwKiCzZ1WEDTUT5AY2XyYIRHLJq5EVSD2ql-MIJFN19wsCS49SoY9ZzhUnoCYHhyR2AzSKA.webp" group-title="FOOTBALL", Rosenborg vs Manchester United
 https://embed.st/embed/admin/ppv-rosenborg-vs-manchester-united/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJAwQiYSBAiZ2RYhTYlEgMbjFERWTkp56uQoiThy3uT0ChIpsrVhCwJLk1qhYbpz2WyNQJgeHIfYD0yCCA.webp" group-title="FOOTBALL", Atlante vs. América
-https://embed.st/embed/admin/ppv-atlante-vs-am-rica/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJAwQiYSBAiZ2RYhTYlEgMbjFERWTkp56uQoiThy3uT0ChIpsrVhCwJLk1qhYbpz2WyNQJgeHIfYD0yCCA.webp" group-title="FOOTBALL", Atlante vs. América
-https://embed.st/embed/admin/ppv-atlante-vs-am-rica/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRMOATgEKTJABjESFlZgVEIiwgY6kCGWySOkClLnJxssJA0bp8rIFCRTbPTCFgSXArNCwbk5ZS3oCOTBAmXMIIA.webp" group-title="FOOTBALL", Tijuana vs. León
 https://embed.st/embed/admin/ppv-tijuana-vs-le-n/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRMOATgEKTJABjESFlZgVEIiwgY6kCGWySOkClLnJxssJA0bp8rIFCRTbPTCFgSXArNCwbk5ZS3oCOTBAmXMIIA.webp" group-title="FOOTBALL", Tijuana vs. León
 https://embed.st/embed/admin/ppv-tijuana-vs-le-n/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJAwQiYSBAiZ2RYhTYlEgMbjFERWTkp56uQoiThy3uT0ChIpsrVhCwJLk1qhYbpz2WyNQJgeHIfYD0yCCA.webp" group-title="FOOTBALL", Atlante vs. América
+https://embed.st/embed/admin/ppv-atlante-vs-am-rica/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJAwQiYSBAiZ2RYhTYlEgMbjFERWTkp56uQoiThy3uT0ChIpsrVhCwJLk1qhYbpz2WyNQJgeHIfYD0yCCA.webp" group-title="FOOTBALL", Atlante vs. América
+https://embed.st/embed/admin/ppv-atlante-vs-am-rica/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCERkJwkcHikQwkAGMQVEDFVyJiLREUkQRveM3rFiA2VlYU5AwKFyC2emELAkuFfaFhuTgNZMntXBTAA4GtooA.webp" group-title="FOOTBALL", Liverpool vs. Sunderland
 https://embed.st/embed/admin/ppv-liverpool-vs-sunderland/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCERkJwkcHikQwkAGMQVEDFVyJiLREUkQRveM3rFiA2VlYU5AwKFyC2emELAkuFfaFhuTgNZMntXBTAA4GtooA.webp" group-title="FOOTBALL", Liverpool vs. Sunderland
@@ -89,46 +105,50 @@ https://embed.st/embed/admin/ppv-columbus-crew-vs-fc-cincinnati/2|Referer=https:
 https://embed.st/embed/admin/ppv-guadalajara-vs-fc-juarez/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcQGMQJEBOA0ZiCLNKqsIGlRBZspDauXrh03VpnGIekHt7lLAoSKa6U5QsCS4JroWG6dLYVVXAmB4cj9gSzIIIA.webp" group-title="FOOTBALL", Guadalajara vs. FC Juarez
 https://embed.st/embed/admin/ppv-guadalajara-vs-fc-juarez/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRIiwhhIFOJBkIIkAGMQVEFmCIlU3ZoXANOgxOmyQIUqvXaU5JQKEim2emELAkuFfaFhuTiVhUnoCbXIA4CVFIA.webp" group-title="FOOTBALL", CF Montréal vs. Inter Miami CF
-https://embed.st/embed/admin/ppv-cf-montr-al-vs-inter-miami-cf/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRIiwhhIFOJBkIIkAGMQVEFmCIlU3ZoXANOgxOmyQIUqvXaU5JQKEim2emELAkuFfaFhuTiVhUnoCbXIA4CVFIA.webp" group-title="FOOTBALL", CF Montréal vs. Inter Miami CF
-https://embed.st/embed/admin/ppv-cf-montr-al-vs-inter-miami-cf/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCAggq4kPBEgAxnIWJ5iELOUlZMYPLLCQMaUuOaLKSaazYU5CKDCCRTbPTCFgSXIvtDnVkdhUnoCfXJnYEcyCCA.webp" group-title="FOOTBALL", New York City FC vs. Chicago Fire FC
-https://embed.st/embed/admin/ppv-new-york-city-fc-vs-chicago-fire-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCAggq4kPBEgAxnIWJ5iELOUlZMYPLLCQMaUuOaLKSaazYU5CKDCCRTbPTCFgSXIvtDnVkdhUnoCfXJnYEcyCCA.webp" group-title="FOOTBALL", New York City FC vs. Chicago Fire FC
-https://embed.st/embed/admin/ppv-new-york-city-fc-vs-chicago-fire-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRAQQMgMYhhU4NLIRgieYjJYpulCERqswGoZAwRIfWWGl12FOTUChIptnphCwJLlmOhMG5ONVsyRwJ7MCDlOwggA.webp" group-title="FOOTBALL", Orlando City SC vs. Nashville SC
-https://embed.st/embed/admin/ppv-orlando-city-sc-vs-nashville-sc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRAQQMgMYhhU4NLIRgieYjJYpulCERqswGoZAwRIfWWGl12FOTUChIptnphCwJLlmOhMG5ONVsyRwJ7MCDlOwggA.webp" group-title="FOOTBALL", Orlando City SC vs. Nashville SC
-https://embed.st/embed/admin/ppv-orlando-city-sc-vs-nashville-sc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhOCJpwKiBggAxiBXCQKcZuUaFqkFlnz1INTBGa1ETSRC9yEUGEEim2emELAkuRSiHluTgdhUnoCKXInYAcyCCA.webp" group-title="FOOTBALL", Philadelphia Union vs. Seattle Sounders FC
 https://embed.st/embed/admin/ppv-philadelphia-union-vs-seattle-sounders-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhOCJpwKiBggAxiBXCQKcZuUaFqkFlnz1INTBGa1ETSRC9yEUGEEim2emELAkuRSiHluTgdhUnoCKXInYAcyCCA.webp" group-title="FOOTBALL", Philadelphia Union vs. Seattle Sounders FC
 https://embed.st/embed/admin/ppv-philadelphia-union-vs-seattle-sounders-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZEiBTBEIbJJAQ5ExDJA1hwCAuw7lIfRJpUQAYwVrNpkDBC9yigUJFMdUsIWBJcJqULDdORQ0yKQJpcn9NUk0gA.webp" group-title="FOOTBALL", D.C. United vs. Toronto FC
-https://embed.st/embed/admin/ppv-d-c-united-vs-toronto-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZEiBTBEIbJJAQ5ExDJA1hwCAuw7lIfRJpUQAYwVrNpkDBC9yigUJFMdUsIWBJcJqULDdORQ0yKQJpcn9NUk0gA.webp" group-title="FOOTBALL", D.C. United vs. Toronto FC
-https://embed.st/embed/admin/ppv-d-c-united-vs-toronto-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRAQQMgMYhhU4NLIRgieYjJYpulCERqswGoZAwRIfWWGl12FOTUChIptnphCwJLlmOhMG5ONVsyRwJ7MCDlOwggA.webp" group-title="FOOTBALL", Orlando City SC vs. Nashville SC
+https://embed.st/embed/admin/ppv-orlando-city-sc-vs-nashville-sc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRAQQMgMYhhU4NLIRgieYjJYpulCERqswGoZAwRIfWWGl12FOTUChIptnphCwJLlmOhMG5ONVsyRwJ7MCDlOwggA.webp" group-title="FOOTBALL", Orlando City SC vs. Nashville SC
+https://embed.st/embed/admin/ppv-orlando-city-sc-vs-nashville-sc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCAggq4kPBEgAxnIWJ5iELOUlZMYPLLCQMaUuOaLKSaazYU5CKDCCRTbPTCFgSXIvtDnVkdhUnoCfXJnYEcyCCA.webp" group-title="FOOTBALL", New York City FC vs. Chicago Fire FC
+https://embed.st/embed/admin/ppv-new-york-city-fc-vs-chicago-fire-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCAggq4kPBEgAxnIWJ5iELOUlZMYPLLCQMaUuOaLKSaazYU5CKDCCRTbPTCFgSXIvtDnVkdhUnoCfXJnYEcyCCA.webp" group-title="FOOTBALL", New York City FC vs. Chicago Fire FC
+https://embed.st/embed/admin/ppv-new-york-city-fc-vs-chicago-fire-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYhEkqiBggas+VjnZSEkMJARg8bFNVa9iWTR3H98+TJTkdAoSKZrbYQsCS5xtoWG6cdYVJ6Al1yP2AdMgggA.webp" group-title="FOOTBALL", New England Revolution vs. Atlanta United FC
 https://embed.st/embed/admin/ppv-new-england-revolution-vs-atlanta-united-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYhEkqiBggas+VjnZSEkMJARg8bFNVa9iWTR3H98+TJTkdAoSKZrbYQsCS5xtoWG6cdYVJ6Al1yP2AdMgggA.webp" group-title="FOOTBALL", New England Revolution vs. Atlanta United FC
 https://embed.st/embed/admin/ppv-new-england-revolution-vs-atlanta-united-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZEiBTBEIbJJAQ5ExDJA1hwCAuw7lIfRJpUQAYwVrNpkDBC9yigUJFMdUsIWBJcJqULDdORQ0yKQJpcn9NUk0gA.webp" group-title="FOOTBALL", D.C. United vs. Toronto FC
+https://embed.st/embed/admin/ppv-d-c-united-vs-toronto-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZEiBTBEIbJJAQ5ExDJA1hwCAuw7lIfRJpUQAYwVrNpkDBC9yigUJFMdUsIWBJcJqULDdORQ0yKQJpcn9NUk0gA.webp" group-title="FOOTBALL", D.C. United vs. Toronto FC
+https://embed.st/embed/admin/ppv-d-c-united-vs-toronto-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRIiwhhIFOJBkIIkAGMQVEFmCIlU3ZoXANOgxOmyQIUqvXaU5JQKEim2emELAkuFfaFhuTiVhUnoCbXIA4CVFIA.webp" group-title="FOOTBALL", CF Montréal vs. Inter Miami CF
+https://embed.st/embed/admin/ppv-cf-montr-al-vs-inter-miami-cf/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRIiwhhIFOJBkIIkAGMQVEFmCIlU3ZoXANOgxOmyQIUqvXaU5JQKEim2emELAkuFfaFhuTiVhUnoCbXIA4CVFIA.webp" group-title="FOOTBALL", CF Montréal vs. Inter Miami CF
+https://embed.st/embed/admin/ppv-cf-montr-al-vs-inter-miami-cf/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYSAkSAxsCohE0kEpALSIGhJQgSICHoXKNq4IgmqYIS-qVZjvchFBhBIptnphCwJLmkohcm5OJ2FSegJTchdgJzIIIA.webp" group-title="FOOTBALL", Houston Dynamo FC vs. Austin FC
 https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-austin-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYSAkSAxsCohE0kEpALSIGhJQgSICHoXKNq4IgmqYIS-qVZjvchFBhBIptnphCwJLmkohcm5OJ2FSegJTchdgJzIIIA.webp" group-title="FOOTBALL", Houston Dynamo FC vs. Austin FC
 https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-austin-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRCBBUQWGaREgYkkfJIhhweKXUgUkkBGARdmo0ZnKy4naPKGBQlQWz0whYElwBjFI7DdOQw0yX2ctMH8zMgggA.webp" group-title="FOOTBALL", St. Louis CITY SC vs. Colorado Rapids
-https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-colorado-rapids/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRCBBUQWGaREgYkkfJIhhweKXUgUkkBGARdmo0ZnKy4naPKGBQlQWz0whYElwBjFI7DdOQw0yX2ctMH8zMgggA.webp" group-title="FOOTBALL", St. Louis CITY SC vs. Colorado Rapids
-https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-colorado-rapids/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECRDCRIcVhDyswRPFIgAxiBhrtiRQuA0ICkyhPTJEbCeOjyVgUJFNs9MIWBJc6lE7DdOKwt6AmVyf2ArMgggA.webp" group-title="FOOTBALL", Minnesota United FC vs. Vancouver Whitecaps
 https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-vancouver-whitecaps/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECRDCRIcVhDyswRPFIgAxiBhrtiRQuA0ICkyhPTJEbCeOjyVgUJFNs9MIWBJc6lE7DdOKwt6AmVyf2ArMgggA.webp" group-title="FOOTBALL", Minnesota United FC vs. Vancouver Whitecaps
 https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-vancouver-whitecaps/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRCBBUQWGaREgYkkfJIhhweKXUgUkkBGARdmo0ZnKy4naPKGBQlQWz0whYElwBjFI7DdOQw0yX2ctMH8zMgggA.webp" group-title="FOOTBALL", St. Louis CITY SC vs. Colorado Rapids
+https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-colorado-rapids/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRCBBUQWGaREgYkkfJIhhweKXUgUkkBGARdmo0ZnKy4naPKGBQlQWz0whYElwBjFI7DdOQw0yX2ctMH8zMgggA.webp" group-title="FOOTBALL", St. Louis CITY SC vs. Colorado Rapids
+https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-colorado-rapids/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYeJAQQAYxAwQKEFmDSJIEFRBkaKxDGCIl8Q1OBaSZiVqOrlI7SnIRQYQSKbZ6YQsCS4ZJyE3VhdhUnoCQ3I3VQiIIA.webp" group-title="FOOTBALL", San Diego FC vs. FC Dallas
 https://embed.st/embed/admin/ppv-san-diego-fc-vs-fc-dallas/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYeJAQQAYxAwQKEFmDSJIEFRBkaKxDGCIl8Q1OBaSZiVqOrlI7SnIRQYQSKbZ6YQsCS4ZJyE3VhdhUnoCQ3I3VQiIIA.webp" group-title="FOOTBALL", San Diego FC vs. FC Dallas
 https://embed.st/embed/admin/ppv-san-diego-fc-vs-fc-dallas/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQoRIkFRAxsIYQpARSwCCBILSunSDVLDhlYvkWQKOSfzl1AoTILZ6YQsCS4AxtKFhuTnVhDWkXeHIAzQ0IIA.webp" group-title="FOOTBALL", LAFC vs. Sporting Kansas City
+https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQoRIkFRAxsIYQpARSwCCBILSunSDVLDhlYvkWQKOSfzl1AoTILZ6YQsCS4AxtKFhuTnVhDWkXeHIAzQ0IIA.webp" group-title="FOOTBALL", LAFC vs. Sporting Kansas City
+https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYdhAwRIRFmDwFIEiBSyQWdWRUBjGfIgaFkmoZ0bVlkNZu9yEUGEEim2emELAkuHSiHluTgcJMj8CYzAnYAcyCCA.webp" group-title="FOOTBALL", Portland Timbers vs. Real Salt Lake
 https://embed.st/embed/admin/ppv-portland-timbers-vs-real-salt-lake/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYdhAwRIRFmDwFIEiBSyQWdWRUBjGfIgaFkmoZ0bVlkNZu9yEUGEEim2emELAkuHSiHluTgcJMj8CYzAnYAcyCCA.webp" group-title="FOOTBALL", Portland Timbers vs. Real Salt Lake
@@ -137,18 +157,14 @@ https://embed.st/embed/admin/ppv-portland-timbers-vs-real-salt-lake/2|Referer=ht
 https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEUthBSAxiGnBEUqiHGJVkkiGUwFE8eLLC5IFCBgmRug2ZTlxAoZYLZ6YQsCS5ptoWG6dxYQlbZ3hyP2ADSKA.webp" group-title="FOOTBALL", San Jose Earthquakes vs. LA Galaxy
 https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQoRIkFRAxsIYQpARSwCCBILSunSDVLDhlYvkWQKOSfzl1AoTILZ6YQsCS4AxtKFhuTnVhDWkXeHIAzQ0IIA.webp" group-title="FOOTBALL", LAFC vs. Sporting Kansas City
-https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQoRIkFRAxsIYQpARSwCCBILSunSDVLDhlYvkWQKOSfzl1AoTILZ6YQsCS4AxtKFhuTnVhDWkXeHIAzQ0IIA.webp" group-title="FOOTBALL", LAFC vs. Sporting Kansas City
-https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbBEwkFhEgZMiCAhSQIbCpBUtWBfpQhEJWaQkT5MyXOHyqKcqoFCRTbPTCFgSXOIdCwbk5VWzIHAilyQOBVMgggA.webp" group-title="FOOTBALL", Tigres UANL vs. Atlético de San Luis
-https://embed.st/embed/admin/ppv-tigres-uanl-vs-atl-tico-de-san-luis/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbBEwkFhEgZMiCAhSQIbCpBUtWBfpQhEJWaQkT5MyXOHyqKcqoFCRTbPTCFgSXOIdCwbk5VWzIHAilyQOBVMgggA.webp" group-title="FOOTBALL", Tigres UANL vs. Atlético de San Luis
-https://embed.st/embed/admin/ppv-tigres-uanl-vs-atl-tico-de-san-luis/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCADGwCKRBUpICCBIqpM8dhCIYSmVonLENVYizaNuhTXjBe5WQKEim2emELAkuSSmdhuTllhUnoCO3IA-TIIIA.webp" group-title="FOOTBALL", Santos vs. Atlas
 https://embed.st/embed/admin/ppv-santos-vs-atlas/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCADGwCKRBUpICCBIqpM8dhCIYSmVonLENVYizaNuhTXjBe5WQKEim2emELAkuSSmdhuTllhUnoCO3IA-TIIIA.webp" group-title="FOOTBALL", Santos vs. Atlas
 https://embed.st/embed/admin/ppv-santos-vs-atlas/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbBEwkFhEgZMiCAhSQIbCpBUtWBfpQhEJWaQkT5MyXOHyqKcqoFCRTbPTCFgSXOIdCwbk5VWzIHAilyQOBVMgggA.webp" group-title="FOOTBALL", Tigres UANL vs. Atlético de San Luis
+https://embed.st/embed/admin/ppv-tigres-uanl-vs-atl-tico-de-san-luis/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbBEwkFhEgZMiCAhSQIbCpBUtWBfpQhEJWaQkT5MyXOHyqKcqoFCRTbPTCFgSXOIdCwbk5VWzIHAilyQOBVMgggA.webp" group-title="FOOTBALL", Tigres UANL vs. Atlético de San Luis
+https://embed.st/embed/admin/ppv-tigres-uanl-vs-atl-tico-de-san-luis/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjYQEEDVlZS4udIhKJw5QGNgiHWuFKUILSDNUQiKWTWySKcmoFCRTbPTCFgSXFodCwbk4DUnoCXXJA4DUbIA.webp" group-title="FOOTBALL", Auckland FC vs. Tottenham Hotspur
 https://embed.st/embed/admin/ppv-auckland-fc-vs-tottenham-hotspur/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCBjYQEEDVlZS4udIhKJw5QGNgiHWuFKUILSDNUQiKWTWySKcmoFCRTbPTCFgSXFodCwbk4DUnoCXXJA4DUbIA.webp" group-title="FOOTBALL", Auckland FC vs. Tottenham Hotspur
@@ -242,56 +258,56 @@ https://embed.st/embed/admin/admin-rally-tv/1|Referer=https://streamed.pk/&User-
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="MOTOR SPORTS", Formula 1 2026 - Hungary GP
 https://embed.st/embed/delta/live-event_formula-1-2026-hungary-gp-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/11|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/11|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/12|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/12|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix Practice 1
 https://embed.st/embed/golf/23926/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/11|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
-https://embed.st/embed/admin/ppv-hungarian-grand-prix-qualifying/12|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOPEpgVEMLkgQwRChA0yZYaTXbp4rCADGRkPBGLTIGKWUXVvchFBhBIptnphCwJLkPShF1YnLTJpAmVyF2AnMgggA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Qualifying
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/11|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
+https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-3/12|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhAwQZGhAnAqIeCOWL1K8YhCqsq2VJABjEKek1t2ZSCopyEUGEEim2emELAkuI3aFPWB2FSegJgFTAnYAcyCCA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Practice 3
 https://embed.st/embed/golf/23928/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOIjZpUrCDkgQEEDGBUQiRVhFrp68YhQq1EkUpBG52hSnJSBQnQWm2whYElwBjW0LDdOKWFSemd4cn9gKTIIIA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Race
 https://embed.st/embed/admin/ppv-hungarian-grand-prix-race/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
@@ -320,11 +336,17 @@ https://embed.st/embed/admin/ppv-hungarian-grand-prix-race/12|Referer=https://st
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEOIjZpUrCDkgQEEDGBUQiRVhFrp68YhQq1EkUpBG52hSnJSBQnQWm2whYElwBjW0LDdOKWFSemd4cn9gKTIIIA.webp" group-title="MOTOR SPORTS", Hungarian Grand Prix - Race
 https://embed.st/embed/golf/23930/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FIGHT (UFC, BOXING)", IWR Insane Rumble 2026
-https://embed.st/embed/delta/live-event_iwr-insane-rumble-2026-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+https://embed.st/embed/echo/ppv-event-06-iwr-insane-rumble-2026-ppv-06/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FIGHT (UFC, BOXING)", IWR Insane Rumble 2026
+https://embed.st/embed/echo/ppv-event-06-iwr-insane-rumble-2026-ppv-06/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="FIGHT (UFC, BOXING)", TNA: Impact
 https://embed.st/embed/admin/ppv-tna-impact/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="FIGHT (UFC, BOXING)", TNA: Impact
 https://embed.st/embed/admin/ppv-tna-impact/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="FIGHT (UFC, BOXING)", TNA: Impact
+https://embed.st/embed/echo/tna-impact-tna-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp" group-title="FIGHT (UFC, BOXING)", TNA: Impact
+https://embed.st/embed/echo/tna-impact-tna-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp" group-title="FIGHT (UFC, BOXING)", WWE: Friday Night Smackdown
 https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp" group-title="FIGHT (UFC, BOXING)", WWE: Friday Night Smackdown
@@ -395,6 +417,10 @@ https://embed.st/embed/admin/admin-willow-cricket/4|Referer=https://streamed.pk/
 https://embed.st/embed/admin/admin-willow-cricket/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="CRICKET", Willow Cricket
 https://embed.st/embed/admin/admin-willow-cricket/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", Southern Nationals Sugar Creek
+https://embed.st/embed/echo/ppv-event-05-southern-nationals-sugar-creek-ppv-05/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", Southern Nationals Sugar Creek
+https://embed.st/embed/echo/ppv-event-05-southern-nationals-sugar-creek-ppv-05/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcNxAkQ3MGT46QU3Ic3aIIFCGt8CwJBVusRYlHrYoue8vSyzPTLRg7vSiEEA.webp" group-title="OTHER", Tour de France Stage 19
 https://embed.st/embed/admin/ppv-tour-de-france-stage-19/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcNxAkQ3MGT46QU3Ic3aIIFCGt8CwJBVusRYlHrYoue8vSyzPTLRg7vSiEEA.webp" group-title="OTHER", Tour de France Stage 19
@@ -403,6 +429,12 @@ https://embed.st/embed/admin/ppv-tour-de-france-stage-19/2|Referer=https://strea
 https://embed.st/embed/admin/ppv-tour-de-france-stage-19/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcNxAkQ3MGT46QU3Ic3aIIFCGt8CwJBVusRYlHrYoue8vSyzPTLRg7vSiEEA.webp" group-title="OTHER", Tour de France Stage 19
 https://embed.st/embed/admin/ppv-tour-de-france-stage-19/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", PGA Tour: 3M Open Day 2 🏌
+https://embed.st/embed/echo/pga-tour-3m-open-day-2-pga-526234/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", PGA Tour: 3M Open Day 2 🏌
+https://embed.st/embed/echo/pga-tour-3m-open-day-2-pga-526234/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="OTHER", PGA Tour: 3M Open Day 2 🏌
+https://embed.st/embed/echo/pga-tour-3m-open-day-2-pga-526234/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCADGIGCAggUwRPNlVxIYcDXCQJBSBBLsMkzT1q90spr0SIWkFUX8wgkU2z0whYElyTFIVdWext6AiMwV2B7MgggA.webp" group-title="OTHER", Tour de France - Stage 20
 https://embed.st/embed/admin/ppv-tour-de-france-stage-20/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCADGIGCAggUwRPNlVxIYcDXCQJBSBBLsMkzT1q90spr0SIWkFUX8wgkU2z0whYElyTFIVdWext6AiMwV2B7MgggA.webp" group-title="OTHER", Tour de France - Stage 20
