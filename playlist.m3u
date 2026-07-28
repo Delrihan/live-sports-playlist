@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA Washington 🎾
-https://embed.st/embed/echo/atp-wta-washington-tn-1/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA Washington 🎾
-https://embed.st/embed/echo/atp-wta-washington-tn-1/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", ATP / WTA Washington 🎾
-https://embed.st/embed/echo/atp-wta-washington-tn-1/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgYE4BCkgFkkiGGkRIFMBrLlMEaSkHlqxCC0gI5sjRtTN-MIP0Fs9MIWBJc4zUMetLVTJNF3hyR1k1CCA.webp" group-title="LIVE NOW", Zambia vs. Egypt
+https://embed.st/embed/admin/ppv-zambia-vs-egypt/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgYE4BCkgFkkiGGkRIFMBrLlMEaSkHlqxCC0gI5sjRtTN-MIP0Fs9MIWBJc4zUMetLVTJNF3hyR1k1CCA.webp" group-title="LIVE NOW", Zambia vs. Egypt
+https://embed.st/embed/admin/ppv-zambia-vs-egypt/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCCriQMlCADGIeKUnBEMqSUkgYwCVgUhhwKcYhrsakFpiqtc9SnLmBQkU0tOwhYElzynITBuTnNjMicCCzBgvVI9IA.webp" group-title="LIVE NOW", Real Madrid vs Leganés
+https://embed.st/embed/admin/ppv-real-madrid-vs-legan-s/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCCriQMlCADGIeKUnBEMqSUkgYwCVgUhhwKcYhrsakFpiqtc9SnLmBQkU0tOwhYElzynITBuTnNjMicCCzBgvVI9IA.webp" group-title="LIVE NOW", Real Madrid vs Leganés
+https://embed.st/embed/admin/ppv-real-madrid-vs-legan-s/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCCriQMlCADGIeKUnBEMqSUkgYwCVgUhhwKcYhrsakFpiqtc9SnLmBQkU0tOwhYElzynITBuTnNjMicCCzBgvVI9IA.webp" group-title="LIVE NOW", Real Madrid vs Leganés
+https://embed.st/embed/admin/ppv-real-madrid-vs-legan-s/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCCriQMlCADGIeKUnBEMqSUkgYwCVgUhhwKcYhrsakFpiqtc9SnLmBQkU0tOwhYElzynITBuTnNjMicCCzBgvVI9IA.webp" group-title="LIVE NOW", Real Madrid vs Leganés
+https://embed.st/embed/admin/ppv-real-madrid-vs-legan-s/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIICFKkhEiECCoSZIEiGEadyxChApgqmBrnSQczTFLH5JI-zCCRTbPTCFgSXOKNDnVllhWyMCYHhyZyspIA.webp" group-title="LIVE NOW", 2026 Players Championship 25
 https://embed.st/embed/admin/ppv-2026-players-championship-25/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIICFKkhEiECCoSZIEiGEadyxChApgqmBrnSQczTFLH5JI-zCCRTbPTCFgSXOKNDnVllhWyMCYHhyZyspIA.webp" group-title="LIVE NOW", 2026 Players Championship 25
@@ -25,18 +31,6 @@ https://embed.st/embed/admin/ppv-2026-players-championship-25/8|Referer=https://
 https://embed.st/embed/admin/ppv-2026-players-championship-25/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIICFKkhEiECCoSZIEiGEadyxChApgqmBrnSQczTFLH5JI-zCCRTbPTCFgSXOKNDnVllhWyMCYHhyZyspIA.webp" group-title="LIVE NOW", 2026 Players Championship 25
 https://embed.st/embed/admin/ppv-2026-players-championship-25/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Chelsea vs Western Sydney Wanderers
-https://embed.st/embed/echo/chelsea-vs-western-sydney-wanderers-game-6111/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Chelsea vs Western Sydney Wanderers
-https://embed.st/embed/echo/chelsea-vs-western-sydney-wanderers-game-6111/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Chelsea vs Western Sydney Wanderers
-https://embed.st/embed/echo/chelsea-vs-western-sydney-wanderers-game-6111/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Chelsea vs Western Sydney Wanderers
-https://embed.st/embed/echo/chelsea-vs-western-sydney-wanderers-game-6111/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Chelsea vs Western Sydney Wanderers
-https://embed.st/embed/echo/chelsea-vs-western-sydney-wanderers-game-6111/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Chelsea vs Western Sydney Wanderers
-https://embed.st/embed/echo/chelsea-vs-western-sydney-wanderers-game-6111/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMkhB8wMiLhDcQUkCQMgU5kFb05GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASKETBALL", Washington Mystics vs Connecticut Sun
 https://embed.st/embed/admin/ppv-connecticut-sun-vs-washington-mystics/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMkhB8wMiLhDcQUkCQMgU5kFb05GwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASKETBALL", Washington Mystics vs Connecticut Sun
@@ -57,26 +51,14 @@ https://embed.st/embed/admin/ppv-portland-fire-vs-las-vegas-aces/2|Referer=https
 https://embed.st/embed/admin/ppv-new-york-liberty-vs-los-angeles-sparks/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAzBkQIFJBDcQUkCQO7zOiCCswCwJBT7DZ9PSpRct5ehtEemtGBaYqIQQA.webp" group-title="BASKETBALL", Los Angeles Sparks vs New York Liberty
 https://embed.st/embed/admin/ppv-new-york-liberty-vs-los-angeles-sparks/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgYE4BCkgFkkiGGkRIFMBrLlMEaSkHlqxCC0gI5sjRtTN-MIP0Fs9MIWBJc4zUMetLVTJNF3hyR1k1CCA.webp" group-title="FOOTBALL", Zambia vs. Egypt
-https://embed.st/embed/admin/ppv-zambia-vs-egypt/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgYE4BCkgFkkiGGkRIFMBrLlMEaSkHlqxCC0gI5sjRtTN-MIP0Fs9MIWBJc4zUMetLVTJNF3hyR1k1CCA.webp" group-title="FOOTBALL", Zambia vs. Egypt
-https://embed.st/embed/admin/ppv-zambia-vs-egypt/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKilIgU0JDRC8QWECYgHzxlCDNYWemAJFzGO1Zo5gy8ItTmb8rMBgnuJiEEA.webp" group-title="FOOTBALL", Riga FC vs Vardar
-https://embed.st/embed/admin/ppv-riga-fc-vs-vardar/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKilIgU0JDRC8QWECYgHzxlCDNYWemAJFzGO1Zo5gy8ItTmb8rMBgnuJiEEA.webp" group-title="FOOTBALL", Riga FC vs Vardar
-https://embed.st/embed/admin/ppv-riga-fc-vs-vardar/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKilIgU0JDRC8QWECYgHzxlCDNYWemAJFzGO1Zo5gy8ItTmb8rMBgnuJiEEA.webp" group-title="FOOTBALL", Riga FC vs Vardar
-https://embed.st/embed/admin/ppv-riga-fc-vs-vardar/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKilIgU0JDRC8QWECYgHzxlCDNYWemAJFzGO1Zo5gy8ItTmb8rMBgnuJiEEA.webp" group-title="FOOTBALL", Riga FC vs Vardar
-https://embed.st/embed/admin/ppv-riga-fc-vs-vardar/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiEqUQ0sJukheILCFPUQKQyAgWr0lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="FOOTBALL", CSKA 1948 vs Spartak Trnava
 https://embed.st/embed/admin/ppv-cska-1948-sofia-vs-fc-spartak-trnava/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiEqUQ0sJukheILCFPUQKQyAgWr0lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp" group-title="FOOTBALL", CSKA 1948 vs Spartak Trnava
 https://embed.st/embed/admin/ppv-cska-1948-sofia-vs-fc-spartak-trnava/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlRQgQHENRAwQvEFm16QW4xDNb4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="FOOTBALL", Dinamo Zagreb vs Thun
-https://embed.st/embed/admin/ppv-dinamo-zagreb-vs-fc-thun/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlRQgQHENRAwQvEFm16QW4xDNb4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="FOOTBALL", Dinamo Zagreb vs Thun
-https://embed.st/embed/admin/ppv-dinamo-zagreb-vs-fc-thun/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4PBEgsISYhIgAxiBQgYslSK00spKSFnAIa4FRARSSzeJrH1ilOQsChWgtnphCwJLgeuwbk4LcTJHd0kwQKM9CCA.webp" group-title="FOOTBALL", Stoke City vs Everton
+https://embed.st/embed/admin/ppv-stoke-city-vs-everton/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4PBEgsISYhIgAxiBQgYslSK00spKSFnAIa4FRARSSzeJrH1ilOQsChWgtnphCwJLgeuwbk4LcTJHd0kwQKM9CCA.webp" group-title="FOOTBALL", Stoke City vs Everton
+https://embed.st/embed/admin/ppv-stoke-city-vs-everton/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjAYheIEiE0ptILCFPUQhnRFMXtLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="FOOTBALL", Heart of Midlothian vs Sturm Graz
 https://embed.st/embed/admin/ppv-heart-of-midlothian-vs-sk-sturm-graz/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjAYheIEiE0ptILCFPUQhnRFMXtLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp" group-title="FOOTBALL", Heart of Midlothian vs Sturm Graz
@@ -93,6 +75,10 @@ https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-sydney-fc/2|Referer=https:
 https://embed.st/embed/admin/ppv-ghana-vs-cape-verde/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiYSBggsIeMAggUIAMYgFqucNIgJSuTQkRtmtYuA0Dk7RJDyU5IwKEim2emELAkuZfaFhuTiMtMnsCYDkwAPlSeSA.webp" group-title="FOOTBALL", Ghana vs. Cape Verde
 https://embed.st/embed/admin/ppv-ghana-vs-cape-verde/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILONIiQwkGUQhFIAMbZg8YBBCJZKEDG1SJigxJib1IKiD01ri3uQigwgkUzUpyhYElzKvIVdWZ2EpLwJ1clcLMgggA.webp" group-title="FOOTBALL", Liverpool vs Wrexham
+https://embed.st/embed/admin/ppv-liverpool-vs-wrexham/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILONIiQwkGUQhFIAMbZg8YBBCJZKEDG1SJigxJib1IKiD01ri3uQigwgkUzUpyhYElzKvIVdWZ2EpLwJ1clcLMgggA.webp" group-title="FOOTBALL", Liverpool vs Wrexham
+https://embed.st/embed/admin/ppv-liverpool-vs-wrexham/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRAQQMEMODxSwCNhBlJKbKTXKQiyYsTSVWBTJApxMhSJAgRm-mEEimWx4WBJcAY01DnVhV5Mk0CGzBnZSUIIA.webp" group-title="FOOTBALL", MLS All-Stars vs. Liga MX All-Stars
 https://embed.st/embed/admin/ppv-mls-all-stars-vs-liga-mx-all-stars/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRAQQMEMODxSwCNhBlJKbKTXKQiyYsTSVWBTJApxMhSJAgRm-mEEimWx4WBJcAY01DnVhV5Mk0CGzBnZSUIIA.webp" group-title="FOOTBALL", MLS All-Stars vs. Liga MX All-Stars
@@ -109,14 +95,14 @@ https://embed.st/embed/admin/ppv-new-york-city-fc-vs-toronto-fc/2|Referer=https:
 https://embed.st/embed/admin/ppv-puebla-vs-guadalajara/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IAMYgpUiCCogUpESHjB5NLCuzYFclXpjAIyzcOmzFiVfPzljAoSKbbFYQsCS5xioWG6djYSVFAmBVMD8jJQggA.webp" group-title="FOOTBALL", Puebla vs. Guadalajara
 https://embed.st/embed/admin/ppv-puebla-vs-guadalajara/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiAkkQMEOMnAIIAMaSQWEImXYVwCUqUo96lXJDCQR8aXO3L5CKDCCRTbPTCFgSXMqNDnVkdhUnoCYHhyZ0VQiCA.webp" group-title="FOOTBALL", Atlético de San Luis vs. Tijuana
-https://embed.st/embed/admin/ppv-atl-tico-de-san-luis-vs-tijuana/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiAkkQMEOMnAIIAMaSQWEImXYVwCUqUo96lXJDCQR8aXO3L5CKDCCRTbPTCFgSXMqNDnVkdhUnoCYHhyZ0VQiCA.webp" group-title="FOOTBALL", Atlético de San Luis vs. Tijuana
-https://embed.st/embed/admin/ppv-atl-tico-de-san-luis-vs-tijuana/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgsUqaRFzhMkiGGkZ01Ysk0NIPaqogaZRVpFGQKEDBTkIoMIPkFs9MIWBJc420Met7VTJbF3hyR2B7MgggA.webp" group-title="FOOTBALL", FC Juarez vs. Pumas UNAM
 https://embed.st/embed/admin/ppv-fc-juarez-vs-pumas-unam/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgsUqaRFzhMkiGGkZ01Ysk0NIPaqogaZRVpFGQKEDBTkIoMIPkFs9MIWBJc420Met7VTJbF3hyR2B7MgggA.webp" group-title="FOOTBALL", FC Juarez vs. Pumas UNAM
 https://embed.st/embed/admin/ppv-fc-juarez-vs-pumas-unam/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiAkkQMEOMnAIIAMaSQWEImXYVwCUqUo96lXJDCQR8aXO3L5CKDCCRTbPTCFgSXMqNDnVkdhUnoCYHhyZ0VQiCA.webp" group-title="FOOTBALL", Atlético de San Luis vs. Tijuana
+https://embed.st/embed/admin/ppv-atl-tico-de-san-luis-vs-tijuana/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiAkkQMEOMnAIIAMaSQWEImXYVwCUqUo96lXJDCQR8aXO3L5CKDCCRTbPTCFgSXMqNDnVkdhUnoCYHhyZ0VQiCA.webp" group-title="FOOTBALL", Atlético de San Luis vs. Tijuana
+https://embed.st/embed/admin/ppv-atl-tico-de-san-luis-vs-tijuana/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNEiAggAxpJnYQMESBVYQaquuBSlWbSE3DlKlCpApty4SESIlJC-zCCRTbPTCFgSXNItDnVghXMgsCYHhyZ0syCCA.webp" group-title="FOOTBALL", Chelsea vs. Tottenham Hotspur
 https://embed.st/embed/admin/ppv-chelsea-vs-tottenham-hotspur/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNEiAggAxpJnYQMESBVYQaquuBSlWbSE3DlKlCpApty4SESIlJC-zCCRTbPTCFgSXNItDnVghXMgsCYHhyZ0syCCA.webp" group-title="FOOTBALL", Chelsea vs. Tottenham Hotspur
@@ -125,6 +111,26 @@ https://embed.st/embed/admin/ppv-chelsea-vs-tottenham-hotspur/2|Referer=https://
 https://embed.st/embed/admin/ppv-quer-taro-vs-tigres-uanl/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMCogYIFJOAR5WcSCkBjSSBIhEwnZviaQIDWQjHVq+cM3LDEOfzCCRTbPTCFgSXGrlDnVkUbMjkCYEMwZwVSBSA.webp" group-title="FOOTBALL", Querétaro vs. Tigres UANL
 https://embed.st/embed/admin/ppv-quer-taro-vs-tigres-uanl/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDGAQQw0nKoyQKEeJBlha4AqyqQKvVi1KQOlDOxqQEEaXHL+YQTYLZ6YQsCS4AxsqGPWa1kyZRd4ckcpOQggA.webp" group-title="FOOTBALL", FC Cincinnati vs. San Jose Earthquakes
+https://embed.st/embed/admin/ppv-fc-cincinnati-vs-san-jose-earthquakes/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDGAQQw0nKoyQKEeJBlha4AqyqQKvVi1KQOlDOxqQEEaXHL+YQTYLZ6YQsCS4AxsqGPWa1kyZRd4ckcpOQggA.webp" group-title="FOOTBALL", FC Cincinnati vs. San Jose Earthquakes
+https://embed.st/embed/admin/ppv-fc-cincinnati-vs-san-jose-earthquakes/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCElYQMYBImzpNGtMkBjbMCohps7dIhaRpUjrMkQF5Zt7lDAocYKaU5QsCS41roWG6dDYRNXZ3hyPzkTCCA.webp" group-title="FOOTBALL", CF Montréal vs. New England Revolution
+https://embed.st/embed/admin/ppv-cf-montr-al-vs-new-england-revolution/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCElYQMYBImzpNGtMkBjbMCohps7dIhaRpUjrMkQF5Zt7lDAocYKaU5QsCS41roWG6dDYRNXZ3hyPzkTCCA.webp" group-title="FOOTBALL", CF Montréal vs. New England Revolution
+https://embed.st/embed/admin/ppv-cf-montr-al-vs-new-england-revolution/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCCOA1hIGLJDSQIYIhrxgEBSqnYlIVVJDCNuuYgDGR-SBIh85CQKGSC2emELAkucymdhuTgljMj9XdTAAkzIIIA.webp" group-title="FOOTBALL", D.C. United vs. Nashville SC
+https://embed.st/embed/admin/ppv-d-c-united-vs-nashville-sc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCCOA1hIGLJDSQIYIhrxgEBSqnYlIVVJDCNuuYgDGR-SBIh85CQKGSC2emELAkucymdhuTgljMj9XdTAAkzIIIA.webp" group-title="FOOTBALL", D.C. United vs. Nashville SC
+https://embed.st/embed/admin/ppv-d-c-united-vs-nashville-sc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMogDGIKiBQgsIYSIXAaWEcAggQpEInkl9c7DIXilIbdpjB4eiGpTlHAoZoLZ6YQsCS5JZyEwbk5HZTJnT3swEK1SLSA.webp" group-title="FOOTBALL", Inter Miami CF vs. Columbus Crew
+https://embed.st/embed/admin/ppv-inter-miami-cf-vs-columbus-crew/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMogDGIKiBQgsIYSIXAaWEcAggQpEInkl9c7DIXilIbdpjB4eiGpTlHAoZoLZ6YQsCS5JZyEwbk5HZTJnT3swEK1SLSA.webp" group-title="FOOTBALL", Inter Miami CF vs. Columbus Crew
+https://embed.st/embed/admin/ppv-inter-miami-cf-vs-columbus-crew/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggawySEQkQIbNJCyJ8UkuwqAxuJC7gmhSEVYzllCLVrs1-mEEimOh4WBJcu60KesIFzJrAmNyJ2BAsgggA.webp" group-title="FOOTBALL", Philadelphia Union vs. Atlanta United FC
+https://embed.st/embed/admin/ppv-philadelphia-union-vs-atlanta-united-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggawySEQkQIbNJCyJ8UkuwqAxuJC7gmhSEVYzllCLVrs1-mEEimOh4WBJcu60KesIFzJrAmNyJ2BAsgggA.webp" group-title="FOOTBALL", Philadelphia Union vs. Atlanta United FC
+https://embed.st/embed/admin/ppv-philadelphia-union-vs-atlanta-united-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBQjgVEGXikQAY0kgIy4IhQgsIEDL0hEEsuu0k9mzSFkT1emDqn8wg6QWz0whYElxKpIVdWCGkyKQ8FMFdgUNMgA.webp" group-title="FOOTBALL", Red Bull New York vs. Orlando City SC
 https://embed.st/embed/admin/ppv-red-bull-new-york-vs-orlando-city-sc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBQjgVEGXikQAY0kgIy4IhQgsIEDL0hEEsuu0k9mzSFkT1emDqn8wg6QWz0whYElxKpIVdWCGkyKQ8FMFdgUNMgA.webp" group-title="FOOTBALL", Red Bull New York vs. Orlando City SC
@@ -133,38 +139,18 @@ https://embed.st/embed/admin/ppv-red-bull-new-york-vs-orlando-city-sc/2|Referer=
 https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-lafc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcfBGlSIAMYgYIRJKxKQJBdNXDgEYJOEgsMlNhA6L5uSAhLpo8noFCpBbPTCFgSXLNNCwbk49HTJTN0kwQN1pCCA.webp" group-title="FOOTBALL", Vancouver Whitecaps vs. LAFC
 https://embed.st/embed/admin/ppv-vancouver-whitecaps-vs-lafc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggawySEQkQIbNJCyJ8UkuwqAxuJC7gmhSEVYzllCLVrs1-mEEimOh4WBJcu60KesIFzJrAmNyJ2BAsgggA.webp" group-title="FOOTBALL", Philadelphia Union vs. Atlanta United FC
-https://embed.st/embed/admin/ppv-philadelphia-union-vs-atlanta-united-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggawySEQkQIbNJCyJ8UkuwqAxuJC7gmhSEVYzllCLVrs1-mEEimOh4WBJcu60KesIFzJrAmNyJ2BAsgggA.webp" group-title="FOOTBALL", Philadelphia Union vs. Atlanta United FC
-https://embed.st/embed/admin/ppv-philadelphia-union-vs-atlanta-united-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMogDGIKiBQgsIYSIXAaWEcAggQpEInkl9c7DIXilIbdpjB4eiGpTlHAoZoLZ6YQsCS5JZyEwbk5HZTJnT3swEK1SLSA.webp" group-title="FOOTBALL", Inter Miami CF vs. Columbus Crew
-https://embed.st/embed/admin/ppv-inter-miami-cf-vs-columbus-crew/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMogDGIKiBQgsIYSIXAaWEcAggQpEInkl9c7DIXilIbdpjB4eiGpTlHAoZoLZ6YQsCS5JZyEwbk5HZTJnT3swEK1SLSA.webp" group-title="FOOTBALL", Inter Miami CF vs. Columbus Crew
-https://embed.st/embed/admin/ppv-inter-miami-cf-vs-columbus-crew/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDGAQQw0nKoyQKEeJBlha4AqyqQKvVi1KQOlDOxqQEEaXHL+YQTYLZ6YQsCS4AxsqGPWa1kyZRd4ckcpOQggA.webp" group-title="FOOTBALL", FC Cincinnati vs. San Jose Earthquakes
-https://embed.st/embed/admin/ppv-fc-cincinnati-vs-san-jose-earthquakes/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDGAQQw0nKoyQKEeJBlha4AqyqQKvVi1KQOlDOxqQEEaXHL+YQTYLZ6YQsCS4AxsqGPWa1kyZRd4ckcpOQggA.webp" group-title="FOOTBALL", FC Cincinnati vs. San Jose Earthquakes
-https://embed.st/embed/admin/ppv-fc-cincinnati-vs-san-jose-earthquakes/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCCOA1hIGLJDSQIYIhrxgEBSqnYlIVVJDCNuuYgDGR-SBIh85CQKGSC2emELAkucymdhuTgljMj9XdTAAkzIIIA.webp" group-title="FOOTBALL", D.C. United vs. Nashville SC
-https://embed.st/embed/admin/ppv-d-c-united-vs-nashville-sc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCCOA1hIGLJDSQIYIhrxgEBSqnYlIVVJDCNuuYgDGR-SBIh85CQKGSC2emELAkucymdhuTgljMj9XdTAAkzIIIA.webp" group-title="FOOTBALL", D.C. United vs. Nashville SC
-https://embed.st/embed/admin/ppv-d-c-united-vs-nashville-sc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCElYQMYBImzpNGtMkBjbMCohps7dIhaRpUjrMkQF5Zt7lDAocYKaU5QsCS41roWG6dDYRNXZ3hyPzkTCCA.webp" group-title="FOOTBALL", CF Montréal vs. New England Revolution
-https://embed.st/embed/admin/ppv-cf-montr-al-vs-new-england-revolution/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCElYQMYBImzpNGtMkBjbMCohps7dIhaRpUjrMkQF5Zt7lDAocYKaU5QsCS41roWG6dDYRNXZ3hyPzkTCCA.webp" group-title="FOOTBALL", CF Montréal vs. New England Revolution
-https://embed.st/embed/admin/ppv-cf-montr-al-vs-new-england-revolution/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADG4kcHhzsIeRFlUQwxYjISs6xdMQoQMRRp3AaNM8ZTkVAobILZ6YQsCS5JtoWG6cVM3pneTA-YBUyCCA.webp" group-title="FOOTBALL", Chicago Fire FC vs. Charlotte FC
 https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADG4kcHhzsIeRFlUQwxYjISs6xdMQoQMRRp3AaNM8ZTkVAobILZ6YQsCS5JtoWG6cVM3pneTA-YBUyCCA.webp" group-title="FOOTBALL", Chicago Fire FC vs. Charlotte FC
 https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMjQggqIeMAikRIZcPlqsSmSmAySykMJBZpIAMb6QO4HLlSNEbfzCCRTbPTCFgSXKe1DnVgVVMm0Ca3JnNTIIIA.webp" group-title="FOOTBALL", Minnesota United FC vs. San Diego FC
-https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMjQggqIeMAikRIZcPlqsSmSmAySykMJBZpIAMb6QO4HLlSNEbfzCCRTbPTCFgSXKe1DnVgVVMm0Ca3JnNTIIIA.webp" group-title="FOOTBALL", Minnesota United FC vs. San Diego FC
-https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCNLBEJEAGNSIYSBQgaw7EpAQ1W1aqrjgEEVrKyTiFNJBYQiXuRMChkgtnphCwJLjnWhMG5OEw0ya3d4ciDjKQggA.webp" group-title="FOOTBALL", Sporting Kansas City vs. Houston Dynamo FC
 https://embed.st/embed/admin/ppv-sporting-kansas-city-vs-houston-dynamo-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCNLBEJEAGNSIYSBQgaw7EpAQ1W1aqrjgEEVrKyTiFNJBYQiXuRMChkgtnphCwJLjnWhMG5OEw0ya3d4ciDjKQggA.webp" group-title="FOOTBALL", Sporting Kansas City vs. Houston Dynamo FC
 https://embed.st/embed/admin/ppv-sporting-kansas-city-vs-houston-dynamo-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMjQggqIeMAikRIZcPlqsSmSmAySykMJBZpIAMb6QO4HLlSNEbfzCCRTbPTCFgSXKe1DnVgVVMm0Ca3JnNTIIIA.webp" group-title="FOOTBALL", Minnesota United FC vs. San Diego FC
+https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMjQggqIeMAikRIZcPlqsSmSmAySykMJBZpIAMb6QO4HLlSNEbfzCCRTbPTCFgSXKe1DnVgVVMm0Ca3JnNTIIIA.webp" group-title="FOOTBALL", Minnesota United FC vs. San Diego FC
+https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBDZJIRChAwQVcaRHAaZZWSwgd8+QGMlIkMODxzuy1J0H1slOQigwgtQWz0whYElwHHIVdWZzMyRw8LMFdgZzIIIA.webp" group-title="FOOTBALL", St. Louis CITY SC vs. Real Salt Lake
 https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-real-salt-lake/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBDZJIRChAwQVcaRHAaZZWSwgd8+QGMlIkMODxzuy1J0H1slOQigwgtQWz0whYElwHHIVdWZzMyRw8LMFdgZzIIIA.webp" group-title="FOOTBALL", St. Louis CITY SC vs. Real Salt Lake
@@ -279,6 +265,10 @@ https://embed.st/embed/golf/24009/1|Referer=https://streamed.pk/&User-Agent=Mozi
 https://embed.st/embed/admin/ppv-cleveland-guardians-vs-cincinnati-reds/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGPwbNgUkHu4g+ekDBCJTpg0ZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", Cincinnati Reds vs Cleveland Guardians
 https://embed.st/embed/admin/ppv-cleveland-guardians-vs-cincinnati-reds/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGPwbNgUkHu4g+ekDBCJTpg0ZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", Cincinnati Reds vs Cleveland Guardians
+https://embed.st/embed/delta/live_mlb_reds-guardians-live-streaming-597204144/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGPwbNgUkHu4g+ekDBCJTpg0ZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", Cincinnati Reds vs Cleveland Guardians
+https://embed.st/embed/delta/live_mlb_reds-guardians-live-streaming-597204144/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGPwbNgUkHu4g+ekDBCJTpg0ZAFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BASEBALL", Cincinnati Reds vs Cleveland Guardians
 https://embed.st/embed/golf/24020/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDa4wAgAxgUIbiD4gzMEIgsXjh+AWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="BASEBALL", Chicago White Sox vs New York Yankees
@@ -431,12 +421,6 @@ https://embed.st/embed/admin/admin-willow-cricket/4|Referer=https://streamed.pk/
 https://embed.st/embed/admin/admin-willow-cricket/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="CRICKET", Willow Cricket
 https://embed.st/embed/admin/admin-willow-cricket/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGPzDTgABlghuIPkZBSQEECRApcJ+AWBIKfYbPootbFFy3l6WWW8mWjBPelEIIA.webp" group-title="CRICKET", Sunrisers Leeds vs Manchester Super Giants
-https://embed.st/embed/echo/the-hundred-men-sunrisers-vs-super-giants-game-19993637/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGPzDTgABlghuIPkZBSQEECRApcJ+AWBIKfYbPootbFFy3l6WWW8mWjBPelEIIA.webp" group-title="CRICKET", Sunrisers Leeds vs Manchester Super Giants
-https://embed.st/embed/echo/the-hundred-men-sunrisers-vs-super-giants-game-19993637/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGPzDTgABlghuIPkZBSQEECRApcJ+AWBIKfYbPootbFFy3l6WWW8mWjBPelEIIA.webp" group-title="CRICKET", Sunrisers Leeds vs Manchester Super Giants
-https://embed.st/embed/echo/the-hundred-men-sunrisers-vs-super-giants-game-19993637/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkAGNSIGYiogSIFMAiSRIGqvmqpq1eJlYF0+NJjYlK4DTKjyEUGEEim2emELAkuCcqFPWB2FSegJgUzAnKzIIIA.webp" group-title="OTHER", Kill Tony Live from MSG | Friday
 https://embed.st/embed/admin/ppv-kill-tony-live-from-msg-friday/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkAGNSIGYiogSIFMAiSRIGqvmqpq1eJlYF0+NJjYlK4DTKjyEUGEEim2emELAkuCcqFPWB2FSegJgUzAnKzIIIA.webp" group-title="OTHER", Kill Tony Live from MSG | Friday
