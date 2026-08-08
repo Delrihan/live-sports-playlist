@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Juventus vs Inter Milan
+https://embed.st/embed/delta/live_club-friendly-games_juventus-inter-live-streaming-600262272/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", Queens Park Rangers - Millwall
+https://embed.st/embed/golf/144/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPGoQQZUShDcQfEFJBmSBjSG1n4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="LIVE NOW", South Sydney Rabbitohs vs Parramatta Eels
 https://embed.st/embed/admin/ppv-rabbitohs-vs-eels/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPGoQQZUShDcQfEFJBmSBjSG1n4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="LIVE NOW", South Sydney Rabbitohs vs Parramatta Eels
@@ -17,16 +21,12 @@ https://embed.st/embed/admin/ppv-indiana-fever-vs-chicago-sky/2|Referer=https://
 https://embed.st/embed/admin/ppv-seattle-storm-vs-portland-fire/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAqILCBgS5iyRGAqy04SBWaUiiCDKGJUkNJClTI0lZIgQKcioFCrBbPTCFgSXOIdCwbk5tawc3eHJA1WsIIA.webp" group-title="BASKETBALL", Portland Fire vs Seattle Storm
 https://embed.st/embed/admin/ppv-seattle-storm-vs-portland-fire/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Juventus vs Inter Milan
-https://embed.st/embed/delta/live_club-friendly-games_juventus-inter-live-streaming-600262272/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FOOTBALL", Chelsea vs AC Milan
 https://embed.st/embed/delta/live_club-friendly-games_chelsea-milan-live-streaming-600264864/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBCa4s+tJC8QWECc0oQ588cPN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="FOOTBALL", Queens Park Rangers vs Millwall
 https://embed.st/embed/admin/ppv-queens-park-rangers-vs-millwall/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBCa4s+tJC8QWECc0oQ588cPN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="FOOTBALL", Queens Park Rangers vs Millwall
 https://embed.st/embed/admin/ppv-queens-park-rangers-vs-millwall/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBCa4s+tJC8QWECc0oQ588cPN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp" group-title="FOOTBALL", Queens Park Rangers vs Millwall
-https://embed.st/embed/golf/144/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvmAAGYNJAQQKSiF4gsICwcQkz+kyZZIKWEXMYowqox0-lG1OSNNejBPcTEIIA.webp" group-title="FOOTBALL", Örgryte vs AIK
 https://embed.st/embed/admin/ppv-rgryte-is-vs-aik/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvmAAGYNJAQQKSiF4gsICwcQkz+kyZZIKWEXMYowqox0-lG1OSNNejBPcTEIIA.webp" group-title="FOOTBALL", Örgryte vs AIK
