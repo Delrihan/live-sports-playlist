@@ -1,38 +1,100 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKiFm1EKENxB8QUkCZJ6QiY8cbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="LIVE NOW", North Queensland Cowboys vs Wests Tigers
-https://embed.st/embed/admin/ppv-cowboys-vs-wests-tigers/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKiFm1EKENxB8QUkCZJ6QiY8cbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp" group-title="LIVE NOW", North Queensland Cowboys vs Wests Tigers
-https://embed.st/embed/admin/ppv-cowboys-vs-wests-tigers/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGZhNAwkhDcQfEFI0gSBkIlMWpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="LIVE NOW", Sydney Roosters vs Dolphins
-https://embed.st/embed/admin/ppv-roosters-vs-dolphins/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGZhNAwkhDcQfEFI0gSBkIlMWpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="LIVE NOW", Sydney Roosters vs Dolphins
-https://embed.st/embed/admin/ppv-roosters-vs-dolphins/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Bournemouth vs Everton
+https://embed.st/embed/admin/ppv-afc-bournemouth-vs-everton/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Bournemouth vs Everton
+https://embed.st/embed/admin/ppv-afc-bournemouth-vs-everton/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Bournemouth vs Everton
+https://embed.st/embed/admin/ppv-afc-bournemouth-vs-everton/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Bournemouth vs Everton
+https://embed.st/embed/admin/ppv-afc-bournemouth-vs-everton/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Bournemouth vs Everton
+https://embed.st/embed/delta/live_premier-league_bournemouth-everton-live-streaming-609593040/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="LIVE NOW", Bournemouth vs Everton
+https://embed.st/embed/golf/652/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Coventry City vs Hull City
+https://embed.st/embed/admin/ppv-coventry-city-vs-hull-city/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Coventry City vs Hull City
+https://embed.st/embed/admin/ppv-coventry-city-vs-hull-city/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Coventry City vs Hull City
+https://embed.st/embed/admin/ppv-coventry-city-vs-hull-city/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Coventry City vs Hull City
+https://embed.st/embed/admin/ppv-coventry-city-vs-hull-city/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Coventry City vs Hull City
+https://embed.st/embed/delta/live_premier-league_coventry-hull-live-streaming-609593472/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Coventry City vs Hull City
+https://embed.st/embed/golf/653/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAx+c5sDAaQfECZwQQUoyBRaQJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="LIVE NOW", Watford vs West Ham United
+https://embed.st/embed/admin/ppv-watford-vs-west-ham-united/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAx+c5sDAaQfECZwQQUoyBRaQJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="LIVE NOW", Watford vs West Ham United
+https://embed.st/embed/admin/ppv-watford-vs-west-ham-united/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAx+c5sDAaQfECZwQQUoyBRaQJAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="LIVE NOW", Watford vs West Ham United
+https://embed.st/embed/delta/live_championship_watford-west-ham-live-streaming-609626736/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcLzZQsYFCG4g+IYzgggphkHpiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Cardiff City vs Sheffield United
+https://embed.st/embed/delta/live_championship_cardiff-sheffield-utd-live-streaming-609625008/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOCTAADDuAySIbiD4bcICCCkmQKEDA0FgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp" group-title="LIVE NOW", Bristol City vs Portsmouth
+https://embed.st/embed/admin/ppv-bristol-city-vs-portsmouth/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOCTAADDuAySIbiD4bcICCCkmQKEDA0FgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp" group-title="LIVE NOW", Bristol City vs Portsmouth
+https://embed.st/embed/admin/ppv-bristol-city-vs-portsmouth/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiDhJ+YJCBIgNfECZwQQUkMZSGQ8AsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp" group-title="LIVE NOW", Norwich City vs Burnley
+https://embed.st/embed/delta/live_championship_norwich-burnley-live-streaming-609625872/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFOzB8w4OIm4g+IYzgggphkChAH4BYEgp9hs+ijAqNbD+XpZZGky0YB5iohBAA.webp" group-title="LIVE NOW", Charlton Athletic vs Preston North End
+https://embed.st/embed/delta/live_championship_charlton-preston-live-streaming-609625440/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkBjcSBggqIRBDkgsIFSFIiQwjbqWTsIKSOMRg8bXppW9KYFQf8wgswWz0whYElxSHIVdWC2FtBw8rMFdgCzIIIA.webp" group-title="LIVE NOW", Pro Motocross: Ironman
+https://embed.st/embed/admin/ppv-pro-motocross-ironman/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkBjcSBggqIRBDkgsIFSFIiQwjbqWTsIKSOMRg8bXppW9KYFQf8wgswWz0whYElxSHIVdWC2FtBw8rMFdgCzIIIA.webp" group-title="LIVE NOW", Pro Motocross: Ironman
+https://embed.st/embed/admin/ppv-pro-motocross-ironman/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="LIVE NOW", College GameDay
+https://embed.st/embed/delta/live-event_college-gameday-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJRDwwSXOxDcQfECcQwjIKRZwoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Mainz vs Paderborn
+https://embed.st/embed/admin/ppv-mainz-vs-sc-paderborn-07/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJRDwwSXOxDcQfECcQwjIKRZwoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="LIVE NOW", Mainz vs Paderborn
+https://embed.st/embed/admin/ppv-mainz-vs-sc-paderborn-07/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmAAGELt4y+IbiEMkQEEDHNHduEwWBIKfYbPoowKzW0-l6WWU0mWjBPMVEIIA.webp" group-title="LIVE NOW", RB Leipzig vs Borussia Mönchengladbach
+https://embed.st/embed/admin/ppv-rb-leipzig-vs-borussia-m-nchengladbach/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmAAGELt4y+IbiEMkQEEDHNHduEwWBIKfYbPoowKzW0-l6WWU0mWjBPMVEIIA.webp" group-title="LIVE NOW", RB Leipzig vs Borussia Mönchengladbach
+https://embed.st/embed/admin/ppv-rb-leipzig-vs-borussia-m-nchengladbach/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmAAGELt4y+IbiEMkQEEDHNHduEwWBIKfYbPoowKzW0-l6WWU0mWjBPMVEIIA.webp" group-title="LIVE NOW", RB Leipzig vs Borussia Mönchengladbach
+https://embed.st/embed/delta/live_bundesliga_leipzig-mgladbach-live-streaming-609271200/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBgheKZiBLaQffSAibThg8YlMkFPsNn0UYFbravy9LLN1NaYK5iohBAA.webp" group-title="LIVE NOW", Union Berlin vs Eintracht Frankfurt
+https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-eintracht-frankfurt/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBgheKZiBLaQffSAibThg8YlMkFPsNn0UYFbravy9LLN1NaYK5iohBAA.webp" group-title="LIVE NOW", Union Berlin vs Eintracht Frankfurt
+https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-eintracht-frankfurt/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBgheKZiBLaQffSAibThg8YlMkFPsNn0UYFbravy9LLN1NaYK5iohBAA.webp" group-title="LIVE NOW", Union Berlin vs Eintracht Frankfurt
+https://embed.st/embed/delta/live_bundesliga_union-berlin-frankfurt-live-streaming-609270336/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCQgYuMAKkhuIPiFOIdJgycSNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Elversberg vs Bayer Leverkusen
+https://embed.st/embed/admin/ppv-sv-elversberg-vs-bayer-leverkusen/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCQgYuMAKkhuIPiFOIdJgycSNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Elversberg vs Bayer Leverkusen
+https://embed.st/embed/admin/ppv-sv-elversberg-vs-bayer-leverkusen/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCQgYuMAKkhuIPiFOIdJgycSNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="LIVE NOW", Elversberg vs Bayer Leverkusen
+https://embed.st/embed/delta/live_bundesliga_elversberg-leverkusen-live-streaming-609272064/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCJA0sIYSBCSUIMohQjFIGTTnyq8kAGNSyqSAgh4wGnoOGQ+chFBhB6gtnphCwJLgNqhF1YnYVJ6d0swF2AnMgggA.webp" group-title="LIVE NOW", FC Cologne vs. TSG Hoffenheim
+https://embed.st/embed/admin/ppv-fc-cologne-vs-tsg-hoffenheim/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCJA0sIYSBCSUIMohQjFIGTTnyq8kAGNSyqSAgh4wGnoOGQ+chFBhB6gtnphCwJLgNqhF1YnYVJ6d0swF2AnMgggA.webp" group-title="LIVE NOW", FC Cologne vs. TSG Hoffenheim
+https://embed.st/embed/admin/ppv-fc-cologne-vs-tsg-hoffenheim/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp" group-title="LIVE NOW", 2nd Test - England vs. Pakistan
+https://embed.st/embed/admin/ppv-2-nd-test-england-vs-pakistan/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp" group-title="LIVE NOW", 2nd Test - England vs. Pakistan
+https://embed.st/embed/admin/ppv-2-nd-test-england-vs-pakistan/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPZoQ1BmBIheILCFMmUIRDBARDIEiyQUsIuYxT6OKHvvKNdYt74rMBgnoxiEEA.webp" group-title="LIVE NOW", UFC Fight Night 286 Nurmagomedov vs Song
 https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPZoQ1BmBIheILCFMmUIRDBARDIEiyQUsIuYxT6OKHvvKNdYt74rMBgnoxiEEA.webp" group-title="LIVE NOW", UFC Fight Night 286 Nurmagomedov vs Song
 https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPZoQ1BmBIheILCFMmUIRDBARDIEiyQUsIuYxT6OKHvvKNdYt74rMBgnoxiEEA.webp" group-title="LIVE NOW", UFC Fight Night 286 Nurmagomedov vs Song
 https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPZoQ1BmBIheILCFMmUIRDBARDIEiyQUsIuYxT6OKHvvKNdYt74rMBgnoxiEEA.webp" group-title="LIVE NOW", UFC Fight Night 286 Nurmagomedov vs Song
 https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPZoQ1BmBIheILCFMmUIRDBARDIEiyQUsIuYxT6OKHvvKNdYt74rMBgnoxiEEA.webp" group-title="LIVE NOW", UFC Fight Night 286 Nurmagomedov vs Song
 https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPZoQ1BmBIheILCFMmUIRDBARDIEiyQUsIuYxT6OKHvvKNdYt74rMBgnoxiEEA.webp" group-title="LIVE NOW", UFC Fight Night 286 Nurmagomedov vs Song
 https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPZoQ1BmBIheILCFMmUIRDBARDIEiyQUsIuYxT6OKHvvKNdYt74rMBgnoxiEEA.webp" group-title="LIVE NOW", UFC Fight Night 286 Nurmagomedov vs Song
 https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPZoQ1BmBIheILCFMmUIRDBARDIEiyQUsIuYxT6OKHvvKNdYt74rMBgnoxiEEA.webp" group-title="LIVE NOW", UFC Fight Night 286 Nurmagomedov vs Song
 https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
-https://embed.st/embed/delta/live-event_ufc-fight-night-nurmagomedov-vs-song-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
-https://embed.st/embed/delta/live-event_ufc-fight-night-nurmagomedov-vs-song-live-stream/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPZoQ1BmBIheILCFMmUIRDBARDIEiyQUsIuYxT6OKHvvKNdYt74rMBgnoxiEEA.webp" group-title="LIVE NOW", UFC Fight Night 286 Nurmagomedov vs Song
 https://embed.st/embed/golf/719/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp" group-title="LIVE NOW", UFC Fight Night: Nurmagomedov vs. Song
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoPZoQ1BmBIheILCFMmUIRDBARDIEiyQUsIuYxT6OKHvvKNdYt74rMBgnoxiEEA.webp" group-title="LIVE NOW", UFC Fight Night 286 Nurmagomedov vs Song
 https://embed.st/embed/golf/719/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxhuIblvYgYOkFJAoQEEH1MgS5o-ALAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp" group-title="LIVE NOW", Cal Poly vs Idaho
-https://embed.st/embed/delta/live_cfb_cal-poly-mustangs-idaho-live-streaming-587602944/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgpYELhACIIblpAkjIFBd0hDZvgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="BASKETBALL", New York Liberty vs Chicago Sky
 https://embed.st/embed/admin/ppv-chicago-sky-vs-new-york-liberty/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgpYELhACIIblpAkjIFBd0hDZvgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp" group-title="BASKETBALL", New York Liberty vs Chicago Sky
@@ -41,90 +103,12 @@ https://embed.st/embed/admin/ppv-chicago-sky-vs-new-york-liberty/2|Referer=https
 https://embed.st/embed/admin/ppv-toronto-tempo-vs-phoenix-mercury/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBggq0kCknjFEBQGNVkkSGXxgiYZpr6s2Uif0Spa-aPIRQYQSKYmU5QsCS4VroQ9Z3zegJdcgdgOzIIIA.webp" group-title="BASKETBALL", Phoenix Mercury vs Toronto Tempo
 https://embed.st/embed/admin/ppv-toronto-tempo-vs-phoenix-mercury/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGAG1lIEiG4g+IY4hiGQU47sMFgGmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Energie Cottbus vs Greuther Fürth
-https://embed.st/embed/admin/ppv-energie-cottbus-vs-sp-vgg-greuther-f-rth/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGAG1lIEiG4g+IY4hiGQU47sMFgGmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Energie Cottbus vs Greuther Fürth
-https://embed.st/embed/admin/ppv-energie-cottbus-vs-sp-vgg-greuther-f-rth/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAyUwMCD4gUG-SFOIYJqaZAktBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp" group-title="FOOTBALL", Karlsruhe vs Wolfsburg
-https://embed.st/embed/admin/ppv-karlsruher-sc-vs-vf-l-wolfsburg/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAyUwMCD4gUG-SFOIYJqaZAktBYEgp9hs+ijAqdbD+XpZZOky0YB5iohBAA.webp" group-title="FOOTBALL", Karlsruhe vs Wolfsburg
-https://embed.st/embed/admin/ppv-karlsruher-sc-vs-vf-l-wolfsburg/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKDH4gpYEJRDcQfECcQwj2kyBLWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Heidenheim vs Dynamo Dresden
-https://embed.st/embed/admin/ppv-1-fc-heidenheim-1846-vs-dynamo-dresden/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKDH4gpYEJRDcQfECcQwj2kyBLWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Heidenheim vs Dynamo Dresden
-https://embed.st/embed/admin/ppv-1-fc-heidenheim-1846-vs-dynamo-dresden/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDC4yUuBiG4g+IYzgggphkDoONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Middlesbrough vs West Bromwich Albion
-https://embed.st/embed/delta/live_championship_middlesbrough-west-brom-live-streaming-609277680/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/7|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/8|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/9|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/10|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/11|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/admin/ppv-liverpool-vs-nottingham-forest/12|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWhBCapIMjm4g+IY5pJaQKXBd0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Liverpool vs Nottingham Forest
-https://embed.st/embed/golf/651/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCJA0sIYSBCSUIMohQjFIGTTnyq8kAGNSyqSAgh4wGnoOGQ+chFBhB6gtnphCwJLgNqhF1YnYVJ6d0swF2AnMgggA.webp" group-title="FOOTBALL", FC Cologne vs. TSG Hoffenheim
-https://embed.st/embed/admin/ppv-fc-cologne-vs-tsg-hoffenheim/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCJA0sIYSBCSUIMohQjFIGTTnyq8kAGNSyqSAgh4wGnoOGQ+chFBhB6gtnphCwJLgNqhF1YnYVJ6d0swF2AnMgggA.webp" group-title="FOOTBALL", FC Cologne vs. TSG Hoffenheim
-https://embed.st/embed/admin/ppv-fc-cologne-vs-tsg-hoffenheim/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCQgYuMAKkhuIPiFOIdJgycSNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Elversberg vs Bayer Leverkusen
-https://embed.st/embed/admin/ppv-sv-elversberg-vs-bayer-leverkusen/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCQgYuMAKkhuIPiFOIdJgycSNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="FOOTBALL", Elversberg vs Bayer Leverkusen
-https://embed.st/embed/admin/ppv-sv-elversberg-vs-bayer-leverkusen/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBgheKZiBLaQffSAibThg8YlMkFPsNn0UYFbravy9LLN1NaYK5iohBAA.webp" group-title="FOOTBALL", Union Berlin vs Eintracht Frankfurt
-https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-eintracht-frankfurt/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBgheKZiBLaQffSAibThg8YlMkFPsNn0UYFbravy9LLN1NaYK5iohBAA.webp" group-title="FOOTBALL", Union Berlin vs Eintracht Frankfurt
-https://embed.st/embed/admin/ppv-1-fc-union-berlin-vs-eintracht-frankfurt/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmAAGELt4y+IbiEMkQEEDHNHduEwWBIKfYbPoowKzW0-l6WWU0mWjBPMVEIIA.webp" group-title="FOOTBALL", RB Leipzig vs Borussia Mönchengladbach
-https://embed.st/embed/admin/ppv-rb-leipzig-vs-borussia-m-nchengladbach/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmAAGELt4y+IbiEMkQEEDHNHduEwWBIKfYbPoowKzW0-l6WWU0mWjBPMVEIIA.webp" group-title="FOOTBALL", RB Leipzig vs Borussia Mönchengladbach
-https://embed.st/embed/admin/ppv-rb-leipzig-vs-borussia-m-nchengladbach/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJRDwwSXOxDcQfECcQwjIKRZwoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Mainz vs Paderborn
-https://embed.st/embed/admin/ppv-mainz-vs-sc-paderborn-07/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJJRDwwSXOxDcQfECcQwjIKRZwoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Mainz vs Paderborn
-https://embed.st/embed/admin/ppv-mainz-vs-sc-paderborn-07/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Coventry City vs Hull City
-https://embed.st/embed/admin/ppv-coventry-city-vs-hull-city/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Coventry City vs Hull City
-https://embed.st/embed/admin/ppv-coventry-city-vs-hull-city/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Coventry City vs Hull City
-https://embed.st/embed/admin/ppv-coventry-city-vs-hull-city/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Coventry City vs Hull City
-https://embed.st/embed/admin/ppv-coventry-city-vs-hull-city/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEM2BJ+IRNxD6+IYxBAkQplLpAwDBLRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="FOOTBALL", Coventry City vs Hull City
-https://embed.st/embed/golf/653/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="FOOTBALL", Bournemouth vs Everton
-https://embed.st/embed/admin/ppv-afc-bournemouth-vs-everton/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="FOOTBALL", Bournemouth vs Everton
-https://embed.st/embed/admin/ppv-afc-bournemouth-vs-everton/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="FOOTBALL", Bournemouth vs Everton
-https://embed.st/embed/admin/ppv-afc-bournemouth-vs-everton/3|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="FOOTBALL", Bournemouth vs Everton
-https://embed.st/embed/admin/ppv-afc-bournemouth-vs-everton/4|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp" group-title="FOOTBALL", Bournemouth vs Everton
-https://embed.st/embed/golf/652/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmA1YGIKIm4g+IYxBAoQMXVcQKmSCn2Gz6KMCpRc35ettEemtGBuYqIQQA.webp" group-title="FOOTBALL", Levante vs Real Betis
 https://embed.st/embed/admin/ppv-levante-vs-real-betis/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmA1YGIKIm4g+IYxBAoQMXVcQKmSCn2Gz6KMCpRc35ettEemtGBuYqIQQA.webp" group-title="FOOTBALL", Levante vs Real Betis
 https://embed.st/embed/admin/ppv-levante-vs-real-betis/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmA1YGIKIm4g+IYxBAoQMXVcQKmSCn2Gz6KMCpRc35ettEemtGBuYqIQQA.webp" group-title="FOOTBALL", Levante vs Real Betis
+https://embed.st/embed/delta/live_laliga_levante-real-betis-live-streaming-609597360/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBaoZFGC3cNIEiAhaQMc5pwoCwJBT7DZ9PSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="FOOTBALL", Strasbourg vs Lens
 https://embed.st/embed/admin/ppv-strasbourg-vs-lens/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBaoZFGC3cNIEiAhaQMc5pwoCwJBT7DZ9PSpRcwZeESyyPTLRgXmKiEEA.webp" group-title="FOOTBALL", Strasbourg vs Lens
@@ -221,14 +205,14 @@ https://embed.st/embed/admin/ppv-pachuca-vs-guadalajara/2|Referer=https://stream
 https://embed.st/embed/admin/ppv-atlas-vs-quer-taro/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCHhhu2fqRDcQfECYggzMIyBJW+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp" group-title="FOOTBALL", Atlas vs Querétaro
 https://embed.st/embed/admin/ppv-atlas-vs-quer-taro/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggaEUtJGlFVSSGHzEEtYiyqRIAMbjJ2YIhAGQO7dOkpysgUIUETdsIWBJc+u0LDdOWWFFOxd4cn9gWTIIIA.webp" group-title="FOOTBALL", Columbus Crew vs. New England Revolution
-https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggaEUtJGlFVSSGHzEEtYiyqRIAMbjJ2YIhAGQO7dOkpysgUIUETdsIWBJc+u0LDdOWWFFOxd4cn9gWTIIIA.webp" group-title="FOOTBALL", Columbus Crew vs. New England Revolution
-https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMCogSILCADGIRHMQT4k6cAjB1UiLNmlNM1VpApDNOWUTqsKctoFCRTbPTCFgSXPIdCwbk5tYVJ6Ah1yQK0wiCA.webp" group-title="FOOTBALL", D.C. United vs. LAFC
 https://embed.st/embed/admin/ppv-d-c-united-vs-lafc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMCogSILCADGIRHMQT4k6cAjB1UiLNmlNM1VpApDNOWUTqsKctoFCRTbPTCFgSXPIdCwbk5tYVJ6Ah1yQK0wiCA.webp" group-title="FOOTBALL", D.C. United vs. LAFC
 https://embed.st/embed/admin/ppv-d-c-united-vs-lafc/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggaEUtJGlFVSSGHzEEtYiyqRIAMbjJ2YIhAGQO7dOkpysgUIUETdsIWBJc+u0LDdOWWFFOxd4cn9gWTIIIA.webp" group-title="FOOTBALL", Columbus Crew vs. New England Revolution
+https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggaEUtJGlFVSSGHzEEtYiyqRIAMbjJ2YIhAGQO7dOkpysgUIUETdsIWBJc+u0LDdOWWFFOxd4cn9gWTIIIA.webp" group-title="FOOTBALL", Columbus Crew vs. New England Revolution
+https://embed.st/embed/admin/ppv-columbus-crew-vs-new-england-revolution/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGBIhe9RBG0g+IGCCmGDiHPqkFgSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp" group-title="FOOTBALL", Atlanta United vs Charlotte FC
 https://embed.st/embed/admin/ppv-atlanta-united-fc-vs-charlotte-fc/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGBIhe9RBG0g+IGCCmGDiHPqkFgSCn2Gz6KTWxRdN5ellkemtGBu9KIQQA.webp" group-title="FOOTBALL", Atlanta United vs Charlotte FC
@@ -397,10 +381,6 @@ https://embed.st/embed/admin/ppv-barcelona-vs-rayo-vallecano/1|Referer=https://s
 https://embed.st/embed/admin/ppv-barcelona-vs-rayo-vallecano/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSHilgEYFRDyAxiCwgYa7CIUgUIEjq36IavTIVyDZVevWLgiUeVkChIpppTlCwJLkWehMG5OWWFpTwJ7ciCZaQggA.webp" group-title="FOOTBALL", Barcelona vs. Rayo Vallecano
 https://embed.st/embed/golf/708/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoiKtmlCDohEK-Ao3KQMEPnOWDBmmiTUYaGZKlh8CSEx6S+Qj1FCCCA.webp" group-title="AMERICAN FOOTBALL", NFL REDZONE
-https://embed.st/embed/golf/-20260830/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="AMERICAN FOOTBALL", College GameDay
-https://embed.st/embed/delta/live-event_college-gameday-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="AMERICAN FOOTBALL", TCU vs North Carolina
 https://embed.st/embed/delta/live_cfb_tcu-north-carolina-live-streaming-587618496/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="AMERICAN FOOTBALL", TCU vs North Carolina
@@ -449,6 +429,8 @@ https://embed.st/embed/admin/ppv-toronto-argonauts-at-saskatchewan-roughriders/1
 https://embed.st/embed/admin/ppv-toronto-argonauts-at-saskatchewan-roughriders/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="AMERICAN FOOTBALL", UNLV vs Memphis
 https://embed.st/embed/golf/718/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="AMERICAN FOOTBALL", NFL vs RedZone
+https://embed.st/embed/golf/-20260830/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGRQhuG0CD7aQUkIhggtJEBFwnzBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="AMERICAN FOOTBALL", Ottawa Redblacks vs BC Lions
 https://embed.st/embed/admin/ppv-bc-lions-at-ottawa-red-blacks/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGRQhuG0CD7aQUkIhggtJEBFwnzBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="AMERICAN FOOTBALL", Ottawa Redblacks vs BC Lions
@@ -483,12 +465,6 @@ https://embed.st/embed/admin/ppv-seattle-mariners-vs-toronto-blue-jays/1|Referer
 https://embed.st/embed/admin/ppv-seattle-mariners-vs-toronto-blue-jays/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOF74QMZqBDcQfDSBIgUBkxbMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp" group-title="BASEBALL", Toronto Blue Jays vs Seattle Mariners
 https://embed.st/embed/golf/676/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLPph2YFCG4g+IYyRB6DxvUZIFgSCn2GadKlFzBl4RLLLdNaYB5iohBAA.webp" group-title="BASEBALL", San Francisco Giants vs Arizona Diamondbacks
-https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-francisco-giants/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLPph2YFCG4g+IYyRB6DxvUZIFgSCn2GadKlFzBl4RLLLdNaYB5iohBAA.webp" group-title="BASEBALL", San Francisco Giants vs Arizona Diamondbacks
-https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-francisco-giants/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLPph2YFCG4g+IYyRB6DxvUZIFgSCn2GadKlFzBl4RLLLdNaYB5iohBAA.webp" group-title="BASEBALL", San Francisco Giants vs Arizona Diamondbacks
-https://embed.st/embed/golf/678/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGF6ju2EFJDcQfECZIgUBk+ZBmUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="BASEBALL", Washington Nationals vs Miami Marlins
 https://embed.st/embed/admin/ppv-miami-marlins-vs-washington-nationals/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGF6ju2EFJDcQfECZIgUBk+ZBmUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp" group-title="BASEBALL", Washington Nationals vs Miami Marlins
@@ -537,6 +513,12 @@ https://embed.st/embed/admin/ppv-baltimore-orioles-vs-athletics/1|Referer=https:
 https://embed.st/embed/admin/ppv-baltimore-orioles-vs-athletics/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFAhC9w3MCC0g++kCRAoD+81LMFgSCn2Gz6GlSi5gy8IllnumtGCeYqIQQA.webp" group-title="BASEBALL", Athletics vs Baltimore Orioles
 https://embed.st/embed/golf/690/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLPph2YFCG4g+IYyRB6DxvUZIFgSCn2GadKlFzBl4RLLLdNaYB5iohBAA.webp" group-title="BASEBALL", San Francisco Giants vs Arizona Diamondbacks
+https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-francisco-giants/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLPph2YFCG4g+IYyRB6DxvUZIFgSCn2GadKlFzBl4RLLLdNaYB5iohBAA.webp" group-title="BASEBALL", San Francisco Giants vs Arizona Diamondbacks
+https://embed.st/embed/admin/ppv-arizona-diamondbacks-vs-san-francisco-giants/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJLPph2YFCG4g+IYyRB6DxvUZIFgSCn2GadKlFzBl4RLLLdNaYB5iohBAA.webp" group-title="BASEBALL", San Francisco Giants vs Arizona Diamondbacks
+https://embed.st/embed/golf/678/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLPzAkQ4RNxD6+OkNpQHjZozALAkFPsNn0UWtii5by9DaPdNaYK70ohBAA.webp" group-title="BASEBALL", Los Angeles Angels vs Philadelphia Phillies
 https://embed.st/embed/admin/ppv-philadelphia-phillies-vs-los-angeles-angels/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLPzAkQ4RNxD6+OkNpQHjZozALAkFPsNn0UWtii5by9DaPdNaYK70ohBAA.webp" group-title="BASEBALL", Los Angeles Angels vs Philadelphia Phillies
@@ -604,15 +586,21 @@ https://embed.st/embed/admin/ppv-moses-itauma-vs-filip-hrgovic/5|Referer=https:/
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKRAhNKSCG4g+WkCX0gpJ4yhDwCwJBT7DZ9XSpRcwZeEQ2iPTLRgXmKiEEA.webp" group-title="FIGHT (UFC, BOXING)", Moses Itauma vs Filip Hrgovic
 https://embed.st/embed/admin/ppv-moses-itauma-vs-filip-hrgovic/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKRAhNKSCG4g+WkCX0gpJ4yhDwCwJBT7DZ9XSpRcwZeEQ2iPTLRgXmKiEEA.webp" group-title="FIGHT (UFC, BOXING)", Moses Itauma vs Filip Hrgovic
+https://embed.st/embed/delta/live-event_moses-itauma-vs-filip-hrgovic-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKRAhNKSCG4g+WkCX0gpJ4yhDwCwJBT7DZ9XSpRcwZeEQ2iPTLRgXmKiEEA.webp" group-title="FIGHT (UFC, BOXING)", Moses Itauma vs Filip Hrgovic
 https://embed.st/embed/golf/730/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FIGHT (UFC, BOXING)", Mikaela Mayer vs Chantelle Cameron
+https://embed.st/embed/delta/live-event_mikaela-mayer-vs-chantelle-cameron-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZcSCwgAxtjkkQKECFLLFIGsLXKY2ELsQRJI40d0Q5NRKPIWBQkUzkpyhYElzSXQsN04XhUnoCYHhyX2ALMgggA.webp" group-title="FIGHT (UFC, BOXING)", Duel Arena 1: Perry vs. Jenkins
 https://embed.st/embed/admin/ppv-duel-arena-1-perry-vs-jenkins/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZcSCwgAxtjkkQKECFLLFIGsLXKY2ELsQRJI40d0Q5NRKPIWBQkUzkpyhYElzSXQsN04XhUnoCYHhyX2ALMgggA.webp" group-title="FIGHT (UFC, BOXING)", Duel Arena 1: Perry vs. Jenkins
 https://embed.st/embed/admin/ppv-duel-arena-1-perry-vs-jenkins/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZcSCwgAxtjkkQKECFLLFIGsLXKY2ELsQRJI40d0Q5NRKPIWBQkUzkpyhYElzSXQsN04XhUnoCYHhyX2ALMgggA.webp" group-title="FIGHT (UFC, BOXING)", Duel Arena 1: Perry vs. Jenkins
 https://embed.st/embed/golf/729/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FIGHT (UFC, BOXING)", BKFC 92 Boston Stewart vs Gigliotti
+#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBB8EnMNLAoQvEFk1mYICxc0kQi-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp" group-title="FIGHT (UFC, BOXING)", BKFC 92 Boston Stewart vs Gigliotti
 https://embed.st/embed/golf/728/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5351/5351486.png" group-title="FIGHT (UFC, BOXING)", Lester Martinez vs Luka Plantic
+https://embed.st/embed/delta/live-event_lester-martinez-vs-luka-plantic-live-stream/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp" group-title="FIGHT (UFC, BOXING)", AEW Saturday Night Collision
 https://embed.st/embed/admin/ppv-aew-saturday-night-collision/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRDCQKESCwi5VEAGMZwCBpCSsIRPGCIQ2xcOznNiM4k3TdvcpoFDFBc7LCFgSXCtlCwbk5bUno3AzBAjVCIIA.webp" group-title="FIGHT (UFC, BOXING)", AEW Saturday Night Collision
@@ -649,7 +637,3 @@ https://embed.st/embed/admin/admin-willow-cricket/4|Referer=https://streamed.pk/
 https://embed.st/embed/admin/admin-willow-cricket/5|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp" group-title="CRICKET", Willow Cricket
 https://embed.st/embed/admin/admin-willow-cricket/6|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp" group-title="CRICKET", 2nd Test - England vs. Pakistan
-https://embed.st/embed/admin/ppv-2-nd-test-england-vs-pakistan/1|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkkQMEaUkgyWEMOBUQAY3EgIwCCr3yUazQtnSNh1cuWIpx-mEFyC2emELAkuDcaFPWXVUyY1d4cidDMgggA.webp" group-title="CRICKET", 2nd Test - England vs. Pakistan
-https://embed.st/embed/admin/ppv-2-nd-test-england-vs-pakistan/2|Referer=https://streamed.pk/&User-Agent=Mozilla/5.0
